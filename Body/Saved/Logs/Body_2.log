@@ -1,0 +1,1850 @@
+﻿Log file open, 05/04/23 16:16:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Body
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291343
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-1260P, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/TwinStickBP/Maps/TwinStickExampleMap -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.04-15.16.28:708][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.05.04-15.16.28:708][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.04-15.16.28:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.04-15.16.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.04-15.16.28:717][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:717][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.04-15.16.28:718][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.04-15.16.28:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.04-15.16.28:718][  0]LogHAL: Display: Platform has ~ 16 GB [16890978304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.04-15.16.28:718][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.04-15.16.28:718][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.04-15.16.28:719][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.04-15.16.28:720][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.04-15.16.28:720][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.04-15.16.28:720][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.05.04-15.16.28:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Engine.ini]
+[2023.05.04-15.16.28:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Editor.ini]
+[2023.05.04-15.16.28:720][  0]LogInit: Computer: DESKTOP-TF26OEU
+[2023.05.04-15.16.28:720][  0]LogInit: User: nerdb
+[2023.05.04-15.16.28:720][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.05.04-15.16.28:720][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.04-15.16.28:720][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.04-15.16.28:720][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.04-15.16.28:720][  0]LogMemory: Process Physical Memory: 148.07 MB used, 148.07 MB peak
+[2023.05.04-15.16.28:720][  0]LogMemory: Process Virtual Memory: 131.63 MB used, 131.63 MB peak
+[2023.05.04-15.16.28:720][  0]LogMemory: Physical Memory: 12540.06 MB used,  3568.43 MB free, 16108.49 MB total
+[2023.05.04-15.16.28:720][  0]LogMemory: Virtual Memory: 134213352.00 MB used,  4373.43 MB free, 134217728.00 MB total
+[2023.05.04-15.16.28:727][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.04-15.16.28:756][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.04-15.16.28:756][  0]LogInit: Using OS detected language (en-US).
+[2023.05.04-15.16.28:756][  0]LogInit: Using OS detected locale (en-GB).
+[2023.05.04-15.16.28:759][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.05.04-15.16.29:081][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.04-15.16.29:103][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.04-15.16.29:103][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.04-15.16.29:127][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.04-15.16.29:131][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.04-15.16.29:131][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.04-15.16.29:131][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.05.04-15.16.29:131][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.04-15.16.29:175][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.05.04-15.16.29:175][  0]LogD3D11RHI:       128/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:       0/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     DeviceId    : 46a6
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     SubSysId    : 3ae417aa
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     Revision    : 000c
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     SharedSystemMemory : 8445489152 bytes
+[2023.05.04-15.16.29:179][  0]LogD3D11RHI:     AdapterLuid : 0 45087663
+[2023.05.04-15.16.29:192][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.04-15.16.29:192][  0]LogD3D11RHI:     GPU DeviceId: 0x46a6 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.04-15.16.29:192][  0]LogWindows: EnumDisplayDevices:
+[2023.05.04-15.16.29:192][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2023.05.04-15.16.29:192][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.04-15.16.29:193][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.04-15.16.29:193][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.04-15.16.29:193][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.04-15.16.29:193][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2023.05.04-15.16.29:193][  0]LogD3D11RHI:   Driver Version: 31.0.101.3889 (internal:31.0.101.3889, unified:31.0.101.3889)
+[2023.05.04-15.16.29:193][  0]LogD3D11RHI:      Driver Date: 12-20-2022
+[2023.05.04-15.16.29:193][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     DeviceId    : 46a6
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     SubSysId    : 3ae417aa
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     Revision    : 000c
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     SharedSystemMemory : 8445489152 bytes
+[2023.05.04-15.16.29:200][  0]LogD3D11RHI:     AdapterLuid : 0 45087663
+[2023.05.04-15.16.29:239][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.05.04-15.16.29:263][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2023.05.04-15.16.29:263][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2023.05.04-15.16.29:263][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2023.05.04-15.16.29:264][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2023.05.04-15.16.29:264][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.04-15.16.29:264][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.04-15.16.29:283][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2023.05.04-15.16.29:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.04-15.16.29:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.04-15.16.29:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.04-15.16.29:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.04-15.16.29:716][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.04-15.16.29:726][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.04-15.16.29:771][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.05.04-15.16.29:858][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.04-15.16.29:858][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/nerdb/OneDrive/Documents/Body/Body/Intermediate/Shaders/WorkingDirectory/18276/).
+[2023.05.04-15.16.29:858][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nerdb/AppData/Local/Temp/UnrealShaderWorkingDir/AA03C6204D9A5C658C3FBC9177A7D92C/'.
+[2023.05.04-15.16.29:858][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.04-15.16.29:858][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.04-15.16.29:858][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.04-15.16.30:781][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/nerdb/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nerdb/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nerdb/OneDrive/Documents/Body/Body/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nerdb/OneDrive/Documents/Body/Body/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.04-15.16.30:860][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.04-15.16.30:879][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.04-15.16.30:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.04-15.16.30:880][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.04-15.16.30:888][  0]LogDerivedDataCache: Speed tests for C:/Users/nerdb/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.04-15.16.30:888][  0]LogDerivedDataCache: Display: Performance to C:/Users/nerdb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=930.90MBs, RandomWriteSpeed=125.48MBs. Assigned SpeedClass 'Local'
+[2023.05.04-15.16.30:890][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nerdb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.04-15.16.30:890][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.04-15.16.30:890][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.04-15.16.30:935][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.04-15.16.30:936][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.04-15.16.31:053][  0]LogInit: Using OS detected language (en-US).
+[2023.05.04-15.16.31:053][  0]LogInit: Using OS detected locale (en-GB).
+[2023.05.04-15.16.31:053][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.04-15.16.31:053][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2023.05.04-15.16.31:053][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.04-15.16.31:053][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.04-15.16.31:056][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2023.05.04-15.16.31:056][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2023.05.04-15.16.31:236][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.001198 seconds
+[2023.05.04-15.16.31:309][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.04-15.16.31:309][  0]LogInit: Active device profile: [0000024C469DCB00][0000024C3F37F3C0 49] Windows
+[2023.05.04-15.16.31:309][  0]LogInit: Profiles: [0000024C469DCB00][0000024C3F37F3C0 49] Windows, [0000024C4699E100][0000024C3F383500 49] WindowsNoEditor, [0000024C469DD900][0000024C3F387640 49] WindowsServer, [0000024C4699EE00][0000024C3F38B780 49] WindowsClient, [0000024C469DFC00][0000024C3F38F8C0 49] IOS, [0000024C4699CF00][0000024C3F397A40 49] iPadAir, [0000024C469DFE00][0000024C3F39BBC0 49] iPadAir2, [0000024C46950D00][0000024C3F3A2300 49] IPadPro, [0000024C46950E00][0000024C3F39E340 49] iPadAir3, [0000024C4699FB00][0000024C3F3A64C0 49] iPadAir4, [0000024C46953700][0000024C3F3AA640 49] iPadMini2, [0000024C4699F100][0000024C3F5B67C0 49] iPadMini3, [0000024C46953900][0000024C3F5BA940 49] iPadMini4, [0000024C4699F500][0000024C3F5BEAC0 49] iPadMini5, [0000024C46970600][0000024C3F5C6D80 49] iPhone6, [0000024C46970700][0000024C3F5C2DC0 49] iPodTouch6, [0000024C469DE600][0000024C3F5CF080 49] iPhone7, [0000024C469DE800][0000024C3F5CB0C0 49] iPodTouch7, [0000024C46970100][0000024C3F5D3240 49] iPhone5S, [0000024C46950700][0000024C3F5D73C0 49] iPhone6Plus, [0000024C46972500][0000024C3F5DB540 49] iPhone6S, [0000024C46951400][0000024C3F5DF6C0 49] iPhone6SPlus, [0000024C46973B00][0000024C3F393800 49] iPhone7Plus, [0000024C46953600][0000024C3F5E3940 49] iPhoneSE, [0000024C469DEC00][0000024C3F5E7A80 49] iPhone8, [0000024C46950600][0000024C3F5EFC00 49] iPhone8Plus, [0000024C469DE100][0000024C3F5F2200 49] iPhoneX, [0000024C46952900][0000024C3F5F6380 49] iPhoneXS, [0000024C469DFD00][0000024C3F5FA500 49] iPhoneXSMax, [0000024C46952E00][0000024C3F5FE680 49] iPhoneXR, [0000024C469DFF00][0000024C42042800 49] iPhone11, [0000024C46951F00][0000024C42046980 49] iPhone11Pro, [0000024C469DC600][0000024C4204AB00 49] iPhone11ProMax, [0000024C46952000][0000024C4204EC80 49] iPhoneSE2, [0000024C469DFA00][0000024C42052E00 49] iPhone12Mini, [0000024C46952700][0000024C42056F80 49] iPhone12, [0000024C469DEA00][0000024C4205B100 49] iPhone12Pro, [0000024C46950500][0000024C4205F280 49] iPhone12ProMax, [0000024C469DF900][0000024C42063400 49] iPadPro105, [0000024C46951800][0000024C42067580 49] iPadPro129, [0000024C469DCC00][0000024C4206B700 49] iPadPro97, [0000024C46952400][0000024C4206F880 49] iPadPro2_129, [0000024C469DC800][0000024C3F5EB9C0 49] iPad5, [0000024C46950400][0000024C42073B00 49] iPad6, [0000024C469DDB00][0000024C420760C0 49] iPad7, [0000024C46953500][0000024C4207E240 49] iPad8, [0000024C469DE500][0000024C420823C0 49] iPadPro11, [0000024C46952A00][0000024C42086540 49] iPadPro2_11, [0000024C469DCF00][0000024C4208A6C0 49] iPadPro3_129, [0000024C46953100][0000024C4208E840 49] iPadPro4_129, [0000024C469DD600][0000024C420929C0 49] AppleTV, [0000024C46952500][0000024C42096B40 49] AppleTV4K, [0000024C469DDA00][0000024C4209ACC0 49] TVOS, [0000024C46951B00][0000024C46E7EE40 49] Mac, [0000024C469DE400][0000024C46E82FC0 49] MacClient, [0000024C46953C00][0000024C46E87140 49] MacNoEditor, [0000024C469DF500][0000024C46E8B2C0 49] MacServer, [0000024C46952300][0000024C46E8F440 49] Linux, [0000024C469DC900][0000024C46E935C0 49] LinuxAArch64, [0000024C46951E00][0000024C46E97740 49] LinuxNoEditor, [0000024C469DE300][0000024C46E9B8C0 49] LinuxAArch64NoEditor, [0000024C46950C00][0000024C46E9FA40 49] LinuxClient, [0000024C469DDC00][0000024C4207BB80 49] LinuxAArch64Client, [0000024C46953800][0000024C46EA2140 49] LinuxServer, [0000024C469DF000][0000024C46EA6280 49] LinuxAArch64Server, [0000024C46952C00][0000024C46EAA3C0 49] Android, [0000024C469DD200][0000024C46EB2540 49] Android_Low, [0000024C46951500][0000024C46EB66C0 49] Android_Mid, [0000024C469DC100][0000024C46EBA840 49] Android_High, [0000024C46952200][0000024C46EBE9C0 49] Android_Default, [0000024C469DD300][0000024C46EC2B40 49] Android_Adreno4xx, [0000024C4699E300][0000024C46EC6CC0 49] Android_Adreno5xx_Low, [0000024C46973600][0000024C46ECAE40 49] Android_Adreno5xx, [0000024C4699FE00][0000024C46ECEFC0 49] Android_Adreno6xx, [0000024C46972700][0000024C46ED3140 49] Android_Adreno6xx_Vulkan, [0000024C4699F600][0000024C46ED72C0 49] Android_Mali_T6xx, [0000024C46970F00][0000024C46EDB440 49] Android_Mali_T7xx, [0000024C4699DB00][0000024C46EDF5C0 49] Android_Mali_T8xx, [0000024C46971F00][0000024C46EE3740 49] Android_Mali_G71, [0000024C4699EC00][0000024C46EE78C0 49] Android_Mali_G72, [0000024C46972F00][0000024C46EEBA40 49] Android_Mali_G72_Vulkan, [0000024C4699E500][0000024C46EEFBC0 49] Android_Mali_G76, [0000024C46972200][0000024C46EAE180 49] Android_Mali_G76_Vulkan, [0000024C4699CE00][0000024C46EF22C0 49] Android_Mali_G77, [0000024C46971400][0000024C46EF6400 49] Android_Mali_G77_Vulkan, [0000024C4699F700][0000024C46EFA540 49] Android_Mali_G78, [0000024C46971300][0000024C46F026C0 49] Android_Mali_G78_Vulkan, [0000024C4699D500][0000024C46F06840 49] Android_Mali_G710, [0000024C46973D00][0000024C46F0A9C0 49] Android_Mali_G710_Vulkan, [0000024C4699C700][0000024C46F0EB40 49] Android_Vulkan_SM5, [0000024C46971B00][0000024C46F12CC0 49] Android_PowerVR_G6xxx, [0000024C4699CA00][0000024C46F16E40 49] Android_PowerVR_GT7xxx, [0000024C46970200][0000024C46F1AFC0 49] Android_PowerVR_GE8xxx, [0000024C4699F800][0000024C46F1F140 49] Android_PowerVR_GM9xxx, [0000024C46970A00][0000024C46F232C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000024C4699D000][0000024C46F27440 49] Android_TegraK1, [0000024C46971700][0000024C46F2B5C0 49] Android_Unknown_Vulkan, [0000024C4699D800][0000024C46F2F740 49] Lumin, [0000024C46973C00][0000024C46F338C0 49] Lumin_Desktop, [0000024C4699D600][0000024C46F37A40 49] HoloLens, 
+[2023.05.04-15.16.31:359][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.04-15.16.31:359][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.04-15.16.31:359][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.04-15.16.31:359][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.04-15.16.31:359][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.04-15.16.31:479][  0]LogNetVersion: Body 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3971312772)
+[2023.05.04-15.16.31:761][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.04-15.16.31:867][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.05.04-15.16.32:072][  0]LogMoviePlayer: Initializing movie player
+[2023.05.04-15.16.32:246][  0]LogPython: Using Python 3.7.7
+[2023.05.04-15.16.32:998][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 55BD1F994433B34295C4B59D5C2E348B | Instance: 0847C998428B5481B15F35BFCD9823BE (DESKTOP-TF26OEU-18276).
+[2023.05.04-15.16.33:032][  0]LogCollectionManager: Loaded 0 collections in 0.002910 seconds
+[2023.05.04-15.16.33:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Collections/' took 0.00s
+[2023.05.04-15.16.33:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nerdb/OneDrive/Documents/Body/Body/Content/Developers/nerdb/Collections/' took 0.00s
+[2023.05.04-15.16.33:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nerdb/OneDrive/Documents/Body/Body/Content/Collections/' took 0.00s
+[2023.05.04-15.16.33:036][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.04-15.16.33:248][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.04-15.16.33:254][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.04-15.16.33:389][  0]SourceControl: Source control is disabled
+[2023.05.04-15.16.33:389][  0]SourceControl: Source control is disabled
+[2023.05.04-15.16.33:489][  0]SourceControl: Source control is disabled
+[2023.05.04-15.16.33:494][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.04-15.16.33:511][  0]LogUProjectInfo: Found projects:
+[2023.05.04-15.16.33:574][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.04-15.16.33:615][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.04-15.16.33:615][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.04-15.16.33:781][  0]LogOcInput: OculusInput pre-init called
+[2023.05.04-15.16.33:793][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2023.05.04-15.16.33:793][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2023.05.04-15.16.33:793][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.04-15.16.33:887][  0]LogEngine: Initializing Engine...
+[2023.05.04-15.16.33:967][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.05.04-15.16.33:967][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.04-15.16.33:967][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.05.04-15.16.33:969][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.04-15.16.34:282][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.04-15.16.34:282][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.04-15.16.34:289][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.04-15.16.34:295][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.04-15.16.34:295][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.04-15.16.34:295][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.04-15.16.34:295][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-15.16.34:295][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-15.16.34:296][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-15.16.34:296][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-15.16.34:296][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-15.16.34:296][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.04-15.16.34:316][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.04-15.16.34:316][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.04-15.16.34:349][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.05.04-15.16.34:349][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-15.16.34:383][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-15.16.34:383][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-15.16.34:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.04-15.16.34:385][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.04-15.16.34:385][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.04-15.16.34:387][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.04-15.16.34:387][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.04-15.16.34:387][  0]LogInit: FAudioDevice initialized.
+[2023.05.04-15.16.34:389][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.04-15.16.34:390][  0]LogInit: Texture streaming: Enabled
+[2023.05.04-15.16.34:695][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.04-15.16.34:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-15.16.34:697][  0]LogInit: Display: Game Engine Initialized.
+[2023.05.04-15.16.34:697][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.05.04-15.16.34:860][  0]LogInit: Display: Starting Game.
+[2023.05.04-15.16.34:861][  0]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=Player
+[2023.05.04-15.16.34:861][  0]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap?Name=Player
+[2023.05.04-15.16.34:861][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.05.04-15.16.34:863][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.16.34:863][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.16.34:868][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.16.34:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.04-15.16.37:173][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.16.37:193][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.16.37:198][  0]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.16.37:205][  0]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.16.37
+[2023.05.04-15.16.37:206][  0]LogWorld: Bringing up level for play took: 0.006204
+[2023.05.04-15.16.37:209][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-15.16.37:209][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-15.16.37:209][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-15.16.37:209][  0]LogLoad: Took 2.348420 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-15.16.37:237][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.04-15.16.37:284][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.05.04-15.16.37:285][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.04-15.16.37:285][  0]LogLoad: (Engine Initialization) Total time: 10.07 seconds
+[2023.05.04-15.16.37:285][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.04-15.16.37:535][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.04-15.16.37:561][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.16.37:645][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2023.05.04-15.16.37:765][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
+[2023.05.04-15.16.37:893][  1]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.04-15.16.39:848][146]LogRenderer: Reallocating scene render targets to support 2048x1220 Format 10 NumSamples 1 (Frame:148).
+[2023.05.04-15.16.46:100][502]LogBlueprintUserMessages: [TwinStickProjectile_C_1] EnemyActor2
+[2023.05.04-15.16.47:086][563]LogBlueprintUserMessages: [TwinStickProjectile_C_2] EnemyActor21
+[2023.05.04-15.16.50:655][782]LogBlueprintUserMessages: [TwinStickProjectile_C_3] EnemyActor24
+[2023.05.04-15.16.51:429][829]LogBlueprintUserMessages: [TwinStickProjectile_C_4] EnemyActor22
+[2023.05.04-15.16.57:419][203]LogBlueprintUserMessages: [TwinStickProjectile_C_5] BloodcellActor2
+[2023.05.04-15.16.58:124][248]LogBlueprintUserMessages: [TwinStickProjectile_C_6] EnemyActor25
+[2023.05.04-15.17.00:406][387]LogBlueprintUserMessages: [TwinStickProjectile_C_9] BloodcellActor12
+[2023.05.04-15.17.01:119][431]LogBlueprintUserMessages: [TwinStickProjectile_C_10] EnemyActor11
+[2023.05.04-15.17.04:381][614]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1617).
+[2023.05.04-15.17.06:917][830]LogBlueprintUserMessages: [TwinStickProjectile_C_11] BloodcellActor27
+[2023.05.04-15.17.07:265][863]LogBlueprintUserMessages: [TwinStickProjectile_C_12] BloodcellActor28
+[2023.05.04-15.17.08:066][934]LogBlueprintUserMessages: [TwinStickProjectile_C_13] EnemyActor17
+[2023.05.04-15.17.08:510][976]LogBlueprintUserMessages: [TwinStickProjectile_C_14] EnemyActor212
+[2023.05.04-15.17.09:073][ 26]LogBlueprintUserMessages: [TwinStickProjectile_C_16] BloodcellActor26
+[2023.05.04-15.17.10:243][134]LogBlueprintUserMessages: [TwinStickProjectile_C_17] BloodcellActor25
+[2023.05.04-15.17.10:884][192]LogBlueprintUserMessages: [TwinStickProjectile_C_18] BloodcellActor29
+[2023.05.04-15.17.11:662][263]LogBlueprintUserMessages: [TwinStickProjectile_C_19] BloodcellActor110
+[2023.05.04-15.17.13:275][411]LogBlueprintUserMessages: [TwinStickProjectile_C_20] EnemyActor18
+[2023.05.04-15.17.14:053][481]LogBlueprintUserMessages: [TwinStickProjectile_C_21] EnemyActor213
+[2023.05.04-15.17.15:258][593]LogBlueprintUserMessages: [TwinStickProjectile_C_22] BloodcellActor213
+[2023.05.04-15.17.16:567][708]LogBlueprintUserMessages: [TwinStickProjectile_C_23] BloodcellActor214
+[2023.05.04-15.17.16:755][724]LogBlueprintUserMessages: [TwinStickProjectile_C_24] TwinStickProjectile23
+[2023.05.04-15.17.16:755][724]LogBlueprintUserMessages: [TwinStickProjectile_C_23] TwinStickProjectile24
+[2023.05.04-15.17.18:029][837]LogBlueprintUserMessages: [TwinStickProjectile_C_28] EnemyActor217
+[2023.05.04-15.17.18:838][910]LogBlueprintUserMessages: [TwinStickProjectile_C_31] EnemyActor19
+[2023.05.04-15.17.18:878][914]LogBlueprintUserMessages: [TwinStickProjectile_C_30] EnemyActor111
+[2023.05.04-15.17.27:892][429]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.04-15.17.27:892][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.04-15.17.28:407][458]LogRenderer: Reallocating scene render targets to support 2048x1220 Format 10 NumSamples 1 (Frame:3462).
+[2023.05.04-15.17.29:616][527]LogBlueprintUserMessages: [HUD_C_0] Restart
+[2023.05.04-15.17.29:617][527]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.05.04-15.17.29:621][527]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.17.29:621][527]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.17.29:621][527]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.17.29:622][527]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.17.29:622][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.17.29:662][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.17.29:692][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.04-15.17.30:451][527]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.17.30:452][527]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.17.30:453][527]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.17.30:456][527]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.17.30
+[2023.05.04-15.17.30:456][527]LogWorld: Bringing up level for play took: 0.002639
+[2023.05.04-15.17.30:460][527]LogLoad: Took 0.838677 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-15.17.33:059][660]LogRenderer: Reallocating scene render targets to support 2048x1280 Format 10 NumSamples 1 (Frame:135).
+[2023.05.04-15.17.33:059][660]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:059][660]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.04-15.17.33:060][660]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.04-15.17.33:060][660]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.04-15.17.33:061][660]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.04-15.17.33:061][660]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.05.04-15.17.33:062][660]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.04-15.17.33:062][660]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nerdb/OneDrive/Documents/Body/Body/Saved/Config/Windows/Scalability.ini]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.04-15.17.33:062][660]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.04-15.17.47:581][491]LogBlueprintUserMessages: [TwinStickProjectile_C_7] EnemyActor1
+[2023.05.04-15.17.47:743][501]LogBlueprintUserMessages: [TwinStickProjectile_C_8] TwinStickProjectile7
+[2023.05.04-15.17.47:743][501]LogBlueprintUserMessages: [TwinStickProjectile_C_7] TwinStickProjectile8
+[2023.05.04-15.17.48:513][547]LogBlueprintUserMessages: [TwinStickProjectile_C_9] BloodcellActor22
+[2023.05.04-15.17.49:650][617]LogBlueprintUserMessages: [TwinStickProjectile_C_11] BloodcellActor1
+[2023.05.04-15.17.50:566][674]LogBlueprintUserMessages: [TwinStickProjectile_C_12] EnemyActor12
+[2023.05.04-15.17.50:953][698]LogBlueprintUserMessages: [TwinStickProjectile_C_13] EnemyActor14
+[2023.05.04-15.17.52:760][810]LogBlueprintUserMessages: [TwinStickProjectile_C_14] EnemyActor11
+[2023.05.04-15.17.58:222][151]LogBlueprintUserMessages: [TwinStickProjectile_C_16] EnemyActor19
+[2023.05.04-15.17.59:711][241]LogBlueprintUserMessages: [TwinStickProjectile_C_20] EnemyActor15
+[2023.05.04-15.18.00:463][286]LogBlueprintUserMessages: [TwinStickProjectile_C_22] EnemyActor18
+[2023.05.04-15.18.02:018][380]LogBlueprintUserMessages: [TwinStickProjectile_C_25] EnemyActor17
+[2023.05.04-15.18.02:525][410]LogBlueprintUserMessages: [TwinStickProjectile_C_26] EnemyActor110
+[2023.05.04-15.18.03:312][459]LogBlueprintUserMessages: [TwinStickProjectile_C_27] EnemyActor113
+[2023.05.04-15.18.04:639][540]LogBlueprintUserMessages: [TwinStickProjectile_C_28] EnemyActor28
+[2023.05.04-15.18.06:069][631]LogBlueprintUserMessages: [TwinStickProjectile_C_29] EnemyActor111
+[2023.05.04-15.18.07:044][693]LogBlueprintUserMessages: [TwinStickProjectile_C_30] EnemyActor210
+[2023.05.04-15.18.08:430][778]LogBlueprintUserMessages: [TwinStickProjectile_C_31] EnemyActor211
+[2023.05.04-15.18.09:149][824]LogBlueprintUserMessages: [TwinStickProjectile_C_32] BloodcellActor19
+[2023.05.04-15.18.11:134][947]LogBlueprintUserMessages: [TwinStickProjectile_C_33] EnemyActor214
+[2023.05.04-15.18.11:560][974]LogBlueprintUserMessages: [TwinStickProjectile_C_34] EnemyActor212
+[2023.05.04-15.18.12:615][ 39]LogBlueprintUserMessages: [TwinStickProjectile_C_35] EnemyActor213
+[2023.05.04-15.18.16:157][254]LogBlueprintUserMessages: [TwinStickProjectile_C_36] EnemyActor215
+[2023.05.04-15.18.17:614][344]LogBlueprintUserMessages: [TwinStickProjectile_C_37] EnemyActor115
+[2023.05.04-15.18.18:443][394]LogBlueprintUserMessages: [TwinStickProjectile_C_38] EnemyActor118
+[2023.05.04-15.18.19:041][431]LogBlueprintUserMessages: [TwinStickProjectile_C_40] EnemyActor116
+[2023.05.04-15.18.19:331][448]LogBlueprintUserMessages: [TwinStickProjectile_C_39] EnemyActor221
+[2023.05.04-15.18.20:577][523]LogBlueprintUserMessages: [TwinStickProjectile_C_42] EnemyActor220
+[2023.05.04-15.18.21:240][563]LogBlueprintUserMessages: [TwinStickProjectile_C_41] EnemyActor222
+[2023.05.04-15.18.21:422][574]LogBlueprintUserMessages: [TwinStickProjectile_C_43] EnemyActor122
+[2023.05.04-15.18.22:127][617]LogBlueprintUserMessages: [TwinStickProjectile_C_44] BloodcellActor112
+[2023.05.04-15.18.22:470][638]LogBlueprintUserMessages: [TwinStickProjectile_C_45] EnemyActor120
+[2023.05.04-15.18.24:282][748]LogBlueprintUserMessages: [TwinStickProjectile_C_46] EnemyActor117
+[2023.05.04-15.18.28:342][994]LogBlueprintUserMessages: [TwinStickProjectile_C_47] BloodcellActor118
+[2023.05.04-15.18.28:414][998]LogBlueprintUserMessages: [TwinStickProjectile_C_48] EnemyActor125
+[2023.05.04-15.18.28:644][ 12]LogBlueprintUserMessages: [TwinStickProjectile_C_49] BloodcellActor213
+[2023.05.04-15.18.30:362][116]LogBlueprintUserMessages: [TwinStickProjectile_C_50] EnemyActor127
+[2023.05.04-15.18.30:585][129]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.04-15.18.30:585][129]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.04-15.22.34:023][328]LogBlueprintUserMessages: [HUD_C_0] Restart
+[2023.05.04-15.22.34:023][328]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.05.04-15.22.34:025][328]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.22.34:025][328]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.22.34:025][328]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.22.34:026][328]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.22.34:026][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.22.34:065][328]LogAudio: Display: Waited 38.051003 ms for audio thread.
+[2023.05.04-15.22.34:078][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.22.34:085][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.04-15.22.34:751][328]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.22.34:752][328]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.22.34:752][328]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.22.34:756][328]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.22.34
+[2023.05.04-15.22.34:757][328]LogWorld: Bringing up level for play took: 0.002196
+[2023.05.04-15.22.34:760][328]LogLoad: Took 0.734395 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-15.23.08:769][207]LogBlueprintUserMessages: [TwinStickProjectile_C_0] EnemyActor1
+[2023.05.04-15.23.13:897][521]LogBlueprintUserMessages: [TwinStickProjectile_C_1] EnemyActor12
+[2023.05.04-15.23.15:946][647]LogBlueprintUserMessages: [TwinStickProjectile_C_2] EnemyActor13
+[2023.05.04-15.23.17:209][722]LogBlueprintUserMessages: [TwinStickProjectile_C_3] EnemyActor2
+[2023.05.04-15.23.20:450][917]LogBlueprintUserMessages: [TwinStickProjectile_C_5] EnemyActor15
+[2023.05.04-15.23.21:696][992]LogBlueprintUserMessages: [TwinStickProjectile_C_6] BloodcellActor12
+[2023.05.04-15.23.22:162][ 19]LogBlueprintUserMessages: [TwinStickProjectile_C_7] BloodcellActor24
+[2023.05.04-15.23.22:773][ 56]LogBlueprintUserMessages: [TwinStickProjectile_C_8] BloodcellActor28
+[2023.05.04-15.23.23:330][ 90]LogBlueprintUserMessages: [TwinStickProjectile_C_9] EnemyActor16
+[2023.05.04-15.23.26:241][266]LogBlueprintUserMessages: [TwinStickProjectile_C_10] EnemyActor17
+[2023.05.04-15.23.29:951][493]LogBlueprintUserMessages: [TwinStickProjectile_C_12] EnemyActor19
+[2023.05.04-15.23.34:004][735]LogBlueprintUserMessages: [TwinStickProjectile_C_13] BloodcellActor123
+[2023.05.04-15.23.34:806][783]LogBlueprintUserMessages: [TwinStickProjectile_C_14] BloodcellActor120
+[2023.05.04-15.23.40:826][142]LogBlueprintUserMessages: [TwinStickProjectile_C_15] BloodcellActor226
+[2023.05.04-15.23.42:033][214]LogBlueprintUserMessages: [TwinStickProjectile_C_16] EnemyActor110
+[2023.05.04-15.23.42:768][258]LogBlueprintUserMessages: [TwinStickProjectile_C_17] EnemyActor21
+[2023.05.04-15.23.43:931][326]LogBlueprintUserMessages: [TwinStickProjectile_C_18] BloodcellActor134
+[2023.05.04-15.23.44:119][337]LogBlueprintUserMessages: [TwinStickProjectile_C_19] BloodcellActor227
+[2023.05.04-15.23.45:436][415]LogBlueprintUserMessages: [TwinStickProjectile_C_20] EnemyActor112
+[2023.05.04-15.23.45:591][424]LogBlueprintUserMessages: [TwinStickProjectile_C_21] BloodcellActor238
+[2023.05.04-15.23.47:634][544]LogBlueprintUserMessages: [TwinStickProjectile_C_22] EnemyActor113
+[2023.05.04-15.23.48:281][581]LogBlueprintUserMessages: [TwinStickProjectile_C_23] BloodcellActor137
+[2023.05.04-15.23.48:826][613]LogBlueprintUserMessages: [TwinStickProjectile_C_24] BloodcellActor138
+[2023.05.04-15.23.50:062][686]LogBlueprintUserMessages: [TwinStickProjectile_C_25] EnemyActor22
+[2023.05.04-15.23.52:109][808]LogBlueprintUserMessages: [TwinStickProjectile_C_26] BloodcellActor246
+[2023.05.04-15.23.53:119][867]LogBlueprintUserMessages: [TwinStickProjectile_C_27] EnemyActor114
+[2023.05.04-15.23.55:360][999]LogBlueprintUserMessages: [TwinStickProjectile_C_28] BloodcellActor132
+[2023.05.04-15.23.55:747][ 22]LogBlueprintUserMessages: [TwinStickProjectile_C_29] EnemyActor24
+[2023.05.04-15.23.58:074][162]LogBlueprintUserMessages: [TwinStickProjectile_C_30] EnemyActor115
+[2023.05.04-15.23.58:223][171]LogBlueprintUserMessages: [TwinStickProjectile_C_31] TwinStickProjectile30
+[2023.05.04-15.23.58:223][171]LogBlueprintUserMessages: [TwinStickProjectile_C_30] TwinStickProjectile31
+[2023.05.04-15.24.01:335][357]LogBlueprintUserMessages: [TwinStickProjectile_C_32] EnemyActor25
+[2023.05.04-15.24.01:972][394]LogBlueprintUserMessages: [TwinStickProjectile_C_33] EnemyActor26
+[2023.05.04-15.24.05:413][597]LogBlueprintUserMessages: [TwinStickProjectile_C_34] EnemyActor27
+[2023.05.04-15.24.07:355][713]LogBlueprintUserMessages: [TwinStickProjectile_C_35] EnemyActor116
+[2023.05.04-15.24.09:698][851]LogBlueprintUserMessages: [TwinStickProjectile_C_36] EnemyActor29
+[2023.05.04-15.24.11:449][954]LogBlueprintUserMessages: [TwinStickProjectile_C_37] BloodcellActor266
+[2023.05.04-15.24.12:008][987]LogBlueprintUserMessages: [TwinStickProjectile_C_38] EnemyActor118
+[2023.05.04-15.24.13:193][ 58]LogBlueprintUserMessages: [TwinStickProjectile_C_39] EnemyActor211
+[2023.05.04-15.24.14:889][159]LogBlueprintUserMessages: [TwinStickProjectile_C_40] EnemyActor213
+[2023.05.04-15.24.16:626][262]LogBlueprintUserMessages: [TwinStickProjectile_C_41] EnemyActor214
+[2023.05.04-15.24.18:612][381]LogBlueprintUserMessages: [TwinStickProjectile_C_42] BloodcellActor166
+[2023.05.04-15.24.19:132][412]LogBlueprintUserMessages: [TwinStickProjectile_C_43] BloodcellActor169
+[2023.05.04-15.24.21:173][532]LogBlueprintUserMessages: [TwinStickProjectile_C_44] BloodcellActor276
+[2023.05.04-15.24.22:668][621]LogBlueprintUserMessages: [TwinStickProjectile_C_45] BloodcellActor284
+[2023.05.04-15.24.23:994][699]LogBlueprintUserMessages: [TwinStickProjectile_C_47] BloodcellActor281
+[2023.05.04-15.24.24:554][732]LogBlueprintUserMessages: [TwinStickProjectile_C_48] EnemyActor120
+[2023.05.04-15.24.25:624][794]LogBlueprintUserMessages: [TwinStickProjectile_C_49] EnemyActor121
+[2023.05.04-15.24.30:139][ 61]LogBlueprintUserMessages: [TwinStickProjectile_C_50] EnemyActor122
+[2023.05.04-15.24.31:169][123]LogBlueprintUserMessages: [TwinStickProjectile_C_51] BloodcellActor174
+[2023.05.04-15.24.31:807][161]LogBlueprintUserMessages: [TwinStickProjectile_C_52] BloodcellActor297
+[2023.05.04-15.24.33:430][258]LogBlueprintUserMessages: [TwinStickProjectile_C_53] EnemyActor217
+[2023.05.04-15.24.35:085][355]LogBlueprintUserMessages: [TwinStickProjectile_C_54] EnemyActor123
+[2023.05.04-15.24.36:406][433]LogBlueprintUserMessages: [TwinStickProjectile_C_55] EnemyActor125
+[2023.05.04-15.24.38:277][543]LogBlueprintUserMessages: [TwinStickProjectile_C_56] EnemyActor124
+[2023.05.04-15.24.40:877][698]LogBlueprintUserMessages: [TwinStickProjectile_C_57] EnemyActor126
+[2023.05.04-15.24.42:642][803]LogBlueprintUserMessages: [TwinStickProjectile_C_58] EnemyActor127
+[2023.05.04-15.24.43:926][878]LogBlueprintUserMessages: [TwinStickProjectile_C_59] EnemyActor219
+[2023.05.04-15.24.44:690][924]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.04-15.24.44:690][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.04-15.25.29:202][753]LogBlueprintUserMessages: [HUD_C_0] Restart
+[2023.05.04-15.25.29:203][753]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.05.04-15.25.29:204][753]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.25.29:204][753]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.25.29:204][753]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.25.29:205][753]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.25.29:205][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.25.29:247][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.25.29:255][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.04-15.25.29:928][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.25.29:929][753]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.25.29:929][753]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.25.29:935][753]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.25.29
+[2023.05.04-15.25.29:935][753]LogWorld: Bringing up level for play took: 0.003775
+[2023.05.04-15.25.29:938][753]LogLoad: Took 0.734265 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-15.25.58:992][390]LogBlueprintUserMessages: [TwinStickProjectile_C_0] EnemyActor14
+[2023.05.04-15.25.59:415][416]LogBlueprintUserMessages: [TwinStickProjectile_C_1] EnemyActor21
+[2023.05.04-15.26.01:309][532]LogBlueprintUserMessages: [TwinStickProjectile_C_2] BloodcellActor2
+[2023.05.04-15.26.01:929][570]LogBlueprintUserMessages: [TwinStickProjectile_C_4] EnemyActor22
+[2023.05.04-15.26.02:008][575]LogBlueprintUserMessages: [TwinStickProjectile_C_3] EnemyActor29
+[2023.05.04-15.26.03:489][666]LogBlueprintUserMessages: [TwinStickProjectile_C_6] EnemyActor13
+[2023.05.04-15.26.03:840][688]LogBlueprintUserMessages: [TwinStickProjectile_C_5] EnemyActor19
+[2023.05.04-15.26.04:071][702]LogBlueprintUserMessages: [TwinStickProjectile_C_7] EnemyActor15
+[2023.05.04-15.26.05:124][767]LogBlueprintUserMessages: [TwinStickProjectile_C_8] EnemyActor17
+[2023.05.04-15.26.05:543][793]LogBlueprintUserMessages: [TwinStickProjectile_C_10] EnemyActor23
+[2023.05.04-15.26.06:138][830]LogBlueprintUserMessages: [TwinStickProjectile_C_9] EnemyActor110
+[2023.05.04-15.26.06:709][866]LogBlueprintUserMessages: [TwinStickProjectile_C_11] EnemyActor112
+[2023.05.04-15.26.06:811][872]LogBlueprintUserMessages: [TwinStickProjectile_C_13] EnemyActor211
+[2023.05.04-15.26.07:700][927]LogBlueprintUserMessages: [TwinStickProjectile_C_14] BloodcellActor13
+[2023.05.04-15.26.08:124][953]LogBlueprintUserMessages: [TwinStickProjectile_C_15] EnemyActor114
+[2023.05.04-15.26.08:356][967]LogBlueprintUserMessages: [TwinStickProjectile_C_17] BloodcellActor25
+[2023.05.04-15.26.08:862][997]LogBlueprintUserMessages: [TwinStickProjectile_C_19] EnemyActor214
+[2023.05.04-15.26.08:971][  4]LogBlueprintUserMessages: [TwinStickProjectile_C_21] BloodcellActor23
+[2023.05.04-15.26.10:015][ 68]LogBlueprintUserMessages: [TwinStickProjectile_C_25] EnemyActor113
+[2023.05.04-15.26.11:287][147]LogBlueprintUserMessages: [TwinStickProjectile_C_28] EnemyActor115
+[2023.05.04-15.26.11:979][189]LogBlueprintUserMessages: [TwinStickProjectile_C_30] EnemyActor217
+[2023.05.04-15.26.12:029][192]LogBlueprintUserMessages: [TwinStickProjectile_C_29] EnemyActor220
+[2023.05.04-15.26.12:241][205]LogBlueprintUserMessages: [TwinStickProjectile_C_32] EnemyActor216
+[2023.05.04-15.26.12:455][218]LogBlueprintUserMessages: [TwinStickProjectile_C_33] EnemyActor117
+[2023.05.04-15.26.12:858][243]LogBlueprintUserMessages: [TwinStickProjectile_C_34] EnemyActor118
+[2023.05.04-15.26.13:450][279]LogBlueprintUserMessages: [TwinStickProjectile_C_35] EnemyActor122
+[2023.05.04-15.26.13:942][309]LogBlueprintUserMessages: [TwinStickProjectile_C_37] EnemyActor121
+[2023.05.04-15.26.15:226][388]LogBlueprintUserMessages: [TwinStickProjectile_C_43] EnemyActor221
+[2023.05.04-15.26.15:325][394]LogScript: Warning: Attempted to access CannonIdle via property CannonIdle, but CannonIdle is pending kill
+	TwinStickPawn_C /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickPawn
+	Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn:0F4E
+[2023.05.04-15.26.15:325][394]LogScript: Warning: Script call stack:
+	Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ReceiveTick
+	Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+
+[2023.05.04-15.26.15:373][397]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.04-15.26.15:373][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.04-15.26.20:275][705]LogBlueprintUserMessages: [HUD_C_0] Restart
+[2023.05.04-15.26.20:275][705]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.05.04-15.26.20:277][705]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.26.20:277][705]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.26.20:277][705]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.26.20:278][705]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.26.20:278][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.26.20:317][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.26.20:324][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.04-15.26.20:975][705]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.26.20:977][705]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.26.20:978][705]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.26.20:985][705]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.26.20
+[2023.05.04-15.26.20:985][705]LogWorld: Bringing up level for play took: 0.006337
+[2023.05.04-15.26.20:988][705]LogLoad: Took 0.711276 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-15.30.21:226][846]LogBlueprintUserMessages: [TwinStickProjectile_C_0] EnemyActor1
+[2023.05.04-15.30.22:585][932]LogBlueprintUserMessages: [TwinStickProjectile_C_1] EnemyActor2
+[2023.05.04-15.30.24:844][ 72]LogBlueprintUserMessages: [TwinStickProjectile_C_2] EnemyActor11
+[2023.05.04-15.30.27:263][221]LogBlueprintUserMessages: [TwinStickProjectile_C_3] EnemyActor12
+[2023.05.04-15.30.28:005][266]LogBlueprintUserMessages: [TwinStickProjectile_C_4] EnemyActor13
+[2023.05.04-15.30.29:685][371]LogBlueprintUserMessages: [TwinStickProjectile_C_5] BloodcellActor12
+[2023.05.04-15.30.30:238][406]LogBlueprintUserMessages: [TwinStickProjectile_C_6] EnemyActor14
+[2023.05.04-15.30.33:154][587]LogBlueprintUserMessages: [TwinStickProjectile_C_8] EnemyActor16
+[2023.05.04-15.30.34:568][675]LogBlueprintUserMessages: [TwinStickProjectile_C_9] EnemyActor17
+[2023.05.04-15.30.36:484][792]LogBlueprintUserMessages: [TwinStickProjectile_C_10] EnemyActor24
+[2023.05.04-15.30.38:892][940]LogBlueprintUserMessages: [TwinStickProjectile_C_11] BloodcellActor23
+[2023.05.04-15.30.39:455][974]LogBlueprintUserMessages: [TwinStickProjectile_C_12] EnemyActor25
+[2023.05.04-15.30.40:138][ 15]LogBlueprintUserMessages: [TwinStickProjectile_C_13] EnemyActor26
+[2023.05.04-15.30.41:252][ 82]LogBlueprintUserMessages: [TwinStickProjectile_C_14] EnemyActor19
+[2023.05.04-15.30.42:329][148]LogBlueprintUserMessages: [TwinStickProjectile_C_15] EnemyActor28
+[2023.05.04-15.30.44:150][259]LogBlueprintUserMessages: [TwinStickProjectile_C_16] EnemyActor111
+[2023.05.04-15.30.45:117][318]LogBlueprintUserMessages: [TwinStickProjectile_C_17] BloodcellActor26
+[2023.05.04-15.30.48:210][504]LogBlueprintUserMessages: [TwinStickProjectile_C_18] BloodcellActor111
+[2023.05.04-15.30.48:562][526]LogBlueprintUserMessages: [TwinStickProjectile_C_19] EnemyActor112
+[2023.05.04-15.30.49:732][597]LogBlueprintUserMessages: [TwinStickProjectile_C_20] EnemyActor114
+[2023.05.04-15.30.51:072][679]LogBlueprintUserMessages: [TwinStickProjectile_C_21] EnemyActor210
+[2023.05.04-15.30.52:078][739]LogBlueprintUserMessages: [TwinStickProjectile_C_22] EnemyActor212
+[2023.05.04-15.30.52:678][775]LogBlueprintUserMessages: [TwinStickProjectile_C_23] EnemyActor211
+[2023.05.04-15.30.53:350][816]LogBlueprintUserMessages: [TwinStickProjectile_C_24] EnemyActor213
+[2023.05.04-15.30.54:396][880]LogBlueprintUserMessages: [TwinStickProjectile_C_25] EnemyActor116
+[2023.05.04-15.30.55:351][937]LogBlueprintUserMessages: [TwinStickProjectile_C_26] EnemyActor118
+[2023.05.04-15.30.55:697][958]LogBlueprintUserMessages: [TwinStickProjectile_C_27] EnemyActor214
+[2023.05.04-15.30.57:549][ 70]LogBlueprintUserMessages: [TwinStickProjectile_C_28] EnemyActor117
+[2023.05.04-15.30.58:010][ 98]LogBlueprintUserMessages: [TwinStickProjectile_C_29] BloodcellActor113
+[2023.05.04-15.30.58:348][119]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.05.04-15.30.58:348][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.05.04-15.31.04:909][523]LogBlueprintUserMessages: [HUD_C_0] Restart
+[2023.05.04-15.31.04:909][523]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.05.04-15.31.04:910][523]LogNet: Browse: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.31.04:910][523]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.31.04:910][523]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-15.31.04:911][523]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.31.04:911][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.31.04:947][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.31.04:957][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.04-15.31.05:647][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2023.05.04-15.31.05:649][523]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2023.05.04-15.31.05:649][523]LogLoad: Game class is 'TwinStickGameMode_C'
+[2023.05.04-15.31.05:657][523]LogWorld: Bringing World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2023.05.04-16.31.05
+[2023.05.04-15.31.05:657][523]LogWorld: Bringing up level for play took: 0.007191
+[2023.05.04-15.31.05:660][523]LogLoad: Took 0.750901 seconds to LoadMap(/Game/TwinStickBP/Maps/TwinStickExampleMap)
+[2023.05.04-16.15.15:786][349]LogBlueprintUserMessages: [TwinStickProjectile_C_0] EnemyActor2
+[2023.05.04-16.15.17:788][468]LogBlueprintUserMessages: [TwinStickProjectile_C_1] EnemyActor21
+[2023.05.04-16.15.18:464][508]LogBlueprintUserMessages: [TwinStickProjectile_C_2] EnemyActor25
+[2023.05.04-16.15.19:473][567]LogBlueprintUserMessages: [TwinStickProjectile_C_6] BloodcellActor1
+[2023.05.04-16.15.19:489][568]LogBlueprintUserMessages: [TwinStickProjectile_C_7] EnemyActor26
+[2023.05.04-16.15.21:096][664]LogBlueprintUserMessages: [TwinStickProjectile_C_10] EnemyActor23
+[2023.05.04-16.15.22:072][721]LogBlueprintUserMessages: [TwinStickProjectile_C_11] EnemyActor12
+[2023.05.04-16.15.22:448][744]LogBlueprintUserMessages: [TwinStickProjectile_C_12] EnemyActor14
+[2023.05.04-16.15.22:788][764]LogBlueprintUserMessages: [TwinStickProjectile_C_14] EnemyActor13
+[2023.05.04-16.15.23:128][784]LogBlueprintUserMessages: [TwinStickProjectile_C_16] EnemyActor11
+[2023.05.04-16.15.23:269][792]LogBlueprintUserMessages: [TwinStickProjectile_C_15] BloodcellActor11
+[2023.05.04-16.15.23:676][817]LogBlueprintUserMessages: [TwinStickProjectile_C_19] EnemyActor1
+[2023.05.04-16.15.23:927][831]LogBlueprintUserMessages: [TwinStickProjectile_C_17] EnemyActor18
+[2023.05.04-16.15.24:352][857]LogBlueprintUserMessages: [TwinStickProjectile_C_20] EnemyActor15
+[2023.05.04-16.15.25:428][922]LogBlueprintUserMessages: [TwinStickProjectile_C_23] EnemyActor17
+[2023.05.04-16.15.26:509][986]LogBlueprintUserMessages: [TwinStickProjectile_C_28] EnemyActor110
+[2023.05.04-16.15.27:673][ 56]LogBlueprintUserMessages: [TwinStickProjectile_C_33] EnemyActor113
+[2023.05.04-16.15.27:887][ 68]LogBlueprintUserMessages: [TwinStickProjectile_C_32] EnemyActor212
+[2023.05.04-16.15.28:787][122]LogBlueprintUserMessages: [TwinStickProjectile_C_37] BloodcellActor13
+[2023.05.04-16.15.28:883][128]LogBlueprintUserMessages: [TwinStickProjectile_C_38] EnemyActor112
+[2023.05.04-16.15.29:489][164]LogBlueprintUserMessages: [TwinStickProjectile_C_39] EnemyActor115
+[2023.05.04-16.15.29:606][171]LogBlueprintUserMessages: [TwinStickProjectile_C_41] EnemyActor114
+[2023.05.04-16.15.29:656][174]LogBlueprintUserMessages: [TwinStickProjectile_C_40] TwinStickProjectile39
+[2023.05.04-16.15.29:656][174]LogBlueprintUserMessages: [TwinStickProjectile_C_39] TwinStickProjectile40
+[2023.05.04-16.15.31:168][265]LogBlueprintUserMessages: [TwinStickProjectile_C_44] BloodcellActor21
+[2023.05.04-16.15.31:914][309]LogBlueprintUserMessages: [TwinStickProjectile_C_48] EnemyActor218
+[2023.05.04-16.15.32:492][344]LogBlueprintUserMessages: [TwinStickProjectile_C_51] EnemyActor219
+[2023.05.04-16.15.34:114][441]LogBlueprintUserMessages: [TwinStickProjectile_C_56] EnemyActor120
+[2023.05.04-16.15.35:620][532]LogBlueprintUserMessages: [TwinStickProjectile_C_62] EnemyActor220
+[2023.05.04-16.15.35:620][532]LogBlueprintUserMessages: [TwinStickProjectile_C_61] EnemyActor221
+[2023.05.04-16.15.36:223][568]LogBlueprintUserMessages: [TwinStickProjectile_C_64] EnemyActor118
+[2023.05.04-16.15.36:973][612]LogBlueprintUserMessages: [TwinStickProjectile_C_66] BloodcellActor14
+[2023.05.04-16.15.37:255][629]LogBlueprintUserMessages: [TwinStickProjectile_C_68] EnemyActor119
+[2023.05.04-16.15.38:255][688]LogBlueprintUserMessages: [TwinStickProjectile_C_70] EnemyActor121
+[2023.05.04-16.15.38:599][708]LogBlueprintUserMessages: [TwinStickProjectile_C_71] EnemyActor123
+[2023.05.04-16.15.38:787][719]LogBlueprintUserMessages: [TwinStickProjectile_C_73] EnemyActor222
+[2023.05.04-16.15.38:800][720]LogBlueprintUserMessages: [TwinStickProjectile_C_72] BloodcellActor22
+[2023.05.04-16.15.39:317][751]LogBlueprintUserMessages: [TwinStickProjectile_C_74] EnemyActor224
+[2023.05.04-16.15.39:405][756]LogBlueprintUserMessages: [TwinStickProjectile_C_75] EnemyActor122
+[2023.05.04-16.15.40:098][797]LogBlueprintUserMessages: [TwinStickProjectile_C_76] EnemyActor125
+[2023.05.04-16.15.40:254][806]LogBlueprintUserMessages: [TwinStickProjectile_C_77] BloodcellActor15
+[2023.05.04-16.15.40:708][834]LogBlueprintUserMessages: [TwinStickProjectile_C_80] EnemyActor124
+[2023.05.04-16.15.40:959][849]LogBlueprintUserMessages: [TwinStickProjectile_C_79] EnemyActor126
+[2023.05.04-16.15.41:510][881]LogBlueprintUserMessages: [TwinStickProjectile_C_84] EnemyActor225
+[2023.05.04-16.15.42:045][912]LogBlueprintUserMessages: [TwinStickProjectile_C_85] EnemyActor127
+[2023.05.04-16.15.42:402][933]LogBlueprintUserMessages: [TwinStickProjectile_C_86] EnemyActor128
+[2023.05.04-16.15.43:391][994]LogBlueprintUserMessages: [TwinStickProjectile_C_89] EnemyActor227
+[2023.05.04-16.15.43:594][  6]LogBlueprintUserMessages: [TwinStickProjectile_C_90] EnemyActor129
+[2023.05.04-16.15.47:266][226]LogBlueprintUserMessages: [TwinStickProjectile_C_97] EnemyActor132
+[2023.05.04-16.15.47:432][236]LogBlueprintUserMessages: [TwinStickProjectile_C_99] EnemyActor130
+[2023.05.04-16.15.47:822][260]LogBlueprintUserMessages: [TwinStickProjectile_C_100] EnemyActor131
+[2023.05.04-16.15.48:588][304]LogBlueprintUserMessages: [TwinStickProjectile_C_101] EnemyActor232
+[2023.05.04-16.15.49:110][335]LogBlueprintUserMessages: [TwinStickProjectile_C_102] EnemyActor235
+[2023.05.04-16.15.49:828][377]LogBlueprintUserMessages: [TwinStickProjectile_C_105] EnemyActor234
+[2023.05.04-16.15.50:026][389]LogBlueprintUserMessages: [TwinStickProjectile_C_107] EnemyActor231
+[2023.05.04-16.15.50:250][403]LogBlueprintUserMessages: [TwinStickProjectile_C_109] EnemyActor133
+[2023.05.04-16.15.50:631][426]LogBlueprintUserMessages: [TwinStickProjectile_C_110] EnemyActor134
+[2023.05.04-16.15.51:412][474]LogBlueprintUserMessages: [TwinStickProjectile_C_111] EnemyActor237
+[2023.05.04-16.15.52:215][523]LogBlueprintUserMessages: [TwinStickProjectile_C_113] EnemyActor137
+[2023.05.04-16.15.52:338][531]LogBlueprintUserMessages: [TwinStickProjectile_C_115] EnemyActor236
+[2023.05.04-16.15.53:240][585]LogBlueprintUserMessages: [TwinStickProjectile_C_120] EnemyActor233
+[2023.05.04-16.15.53:291][588]LogBlueprintUserMessages: [TwinStickProjectile_C_118] EnemyActor136
+[2023.05.04-16.15.53:770][617]LogBlueprintUserMessages: [TwinStickProjectile_C_119] EnemyActor138
+[2023.05.04-16.15.55:080][697]LogBlueprintUserMessages: [TwinStickProjectile_C_123] EnemyActor140
+[2023.05.04-16.15.55:665][732]LogBlueprintUserMessages: [TwinStickProjectile_C_126] EnemyActor241
+[2023.05.04-16.15.56:262][768]LogBlueprintUserMessages: [TwinStickProjectile_C_129] EnemyActor139
+[2023.05.04-16.15.56:645][791]LogBlueprintUserMessages: [TwinStickProjectile_C_131] BloodcellActor18
+[2023.05.04-16.15.56:659][792]LogBlueprintUserMessages: [TwinStickProjectile_C_130] EnemyActor240
+[2023.05.04-16.15.57:430][838]LogBlueprintUserMessages: [TwinStickProjectile_C_132] BloodcellActor110
+[2023.05.04-16.15.57:702][854]LogBlueprintUserMessages: [TwinStickProjectile_C_133] EnemyActor143
+[2023.05.04-16.15.58:263][888]LogBlueprintUserMessages: [TwinStickProjectile_C_135] EnemyActor145
+[2023.05.04-16.15.58:692][914]LogBlueprintUserMessages: [TwinStickProjectile_C_138] EnemyActor141
+[2023.05.04-16.15.59:373][956]LogBlueprintUserMessages: [TwinStickProjectile_C_139] EnemyActor146
+[2023.05.04-16.15.59:871][987]LogBlueprintUserMessages: [TwinStickProjectile_C_142] BloodcellActor19
+[2023.05.04-16.16.00:261][ 10]LogBlueprintUserMessages: [TwinStickProjectile_C_143] EnemyActor242
+[2023.05.04-16.16.01:134][ 64]LogBlueprintUserMessages: [TwinStickProjectile_C_145] EnemyActor247
+[2023.05.04-16.16.01:288][ 73]LogBlueprintUserMessages: [TwinStickProjectile_C_146] TwinStickProjectile145
+[2023.05.04-16.16.01:288][ 73]LogBlueprintUserMessages: [TwinStickProjectile_C_145] TwinStickProjectile146
+[2023.05.04-16.16.02:135][124]LogBlueprintUserMessages: [TwinStickProjectile_C_150] EnemyActor248
+[2023.05.04-16.16.02:381][139]LogBlueprintUserMessages: [TwinStickProjectile_C_152] EnemyActor147
+[2023.05.04-16.16.02:555][150]LogBlueprintUserMessages: [TwinStickProjectile_C_154] EnemyActor142
+[2023.05.04-16.16.03:655][218]LogBlueprintUserMessages: [TwinStickProjectile_C_156] EnemyActor148
+[2023.05.04-16.16.04:768][286]LogBlueprintUserMessages: [TwinStickProjectile_C_159] EnemyActor251
+[2023.05.04-16.16.05:637][341]LogBlueprintUserMessages: [TwinStickProjectile_C_162] EnemyActor252
+[2023.05.04-16.16.06:322][384]LogBlueprintUserMessages: [TwinStickProjectile_C_166] EnemyActor149
+[2023.05.04-16.16.06:336][385]LogBlueprintUserMessages: [TwinStickProjectile_C_165] EnemyActor253
+[2023.05.04-16.16.06:429][391]LogBlueprintUserMessages: [TwinStickProjectile_C_164] BloodcellActor26
+[2023.05.04-16.16.07:202][438]LogBlueprintUserMessages: [TwinStickProjectile_C_167] EnemyActor254
+[2023.05.04-16.16.08:217][501]LogBlueprintUserMessages: [TwinStickProjectile_C_170] EnemyActor257
+[2023.05.04-16.16.08:400][512]LogBlueprintUserMessages: [TwinStickProjectile_C_172] EnemyActor256
+[2023.05.04-16.16.08:721][532]LogBlueprintUserMessages: [TwinStickProjectile_C_175] EnemyActor150
+[2023.05.04-16.16.08:867][541]LogBlueprintUserMessages: [TwinStickProjectile_C_174] EnemyActor255
+[2023.05.04-16.16.09:540][583]LogBlueprintUserMessages: [TwinStickProjectile_C_176] EnemyActor151
+[2023.05.04-16.16.10:858][664]LogBlueprintUserMessages: [TwinStickProjectile_C_181] EnemyActor260
+[2023.05.04-16.16.11:100][679]LogBlueprintUserMessages: [TwinStickProjectile_C_182] EnemyActor152
+[2023.05.04-16.16.12:210][745]LogBlueprintUserMessages: [TwinStickProjectile_C_185] EnemyActor156
+[2023.05.04-16.16.12:325][752]LogBlueprintUserMessages: [TwinStickProjectile_C_186] BloodcellActor27
+[2023.05.04-16.16.12:399][756]LogBlueprintUserMessages: [TwinStickProjectile_C_187] EnemyActor153
+[2023.05.04-16.16.13:176][804]LogBlueprintUserMessages: [TwinStickProjectile_C_189] BloodcellActor28
+[2023.05.04-16.16.13:679][834]LogBlueprintUserMessages: [TwinStickProjectile_C_192] EnemyActor261
+[2023.05.04-16.16.14:253][869]LogBlueprintUserMessages: [TwinStickProjectile_C_193] BloodcellActor29
+[2023.05.04-16.16.14:332][874]LogBlueprintUserMessages: [TwinStickProjectile_C_195] EnemyActor154
+[2023.05.04-16.16.14:436][880]LogBlueprintUserMessages: [TwinStickProjectile_C_194] EnemyActor263
+[2023.05.04-16.16.14:672][895]LogBlueprintUserMessages: [TwinStickProjectile_C_196] EnemyActor155
+[2023.05.04-16.16.15:299][934]LogBlueprintUserMessages: [TwinStickProjectile_C_197] EnemyActor264
+[2023.05.04-16.16.15:789][965]LogBlueprintUserMessages: [TwinStickProjectile_C_200] EnemyActor157
+[2023.05.04-16.16.16:109][985]LogBlueprintUserMessages: [TwinStickProjectile_C_201] EnemyActor262
+[2023.05.04-16.16.16:636][ 17]LogBlueprintUserMessages: [TwinStickProjectile_C_202] EnemyActor267
+[2023.05.04-16.16.16:733][ 23]LogBlueprintUserMessages: [TwinStickProjectile_C_203] EnemyActor265
+[2023.05.04-16.16.17:460][ 69]LogBlueprintUserMessages: [TwinStickProjectile_C_206] EnemyActor266
+[2023.05.04-16.16.18:834][153]LogBlueprintUserMessages: [TwinStickProjectile_C_210] EnemyActor270
+[2023.05.04-16.16.19:499][194]LogBlueprintUserMessages: [TwinStickProjectile_C_212] BloodcellActor112
+[2023.05.04-16.16.19:766][210]LogBlueprintUserMessages: [TwinStickProjectile_C_214] EnemyActor269
+[2023.05.04-16.16.20:068][228]LogBlueprintUserMessages: [TwinStickProjectile_C_215] EnemyActor158
+[2023.05.04-16.16.21:837][338]LogBlueprintUserMessages: [TwinStickProjectile_C_221] EnemyActor275
+[2023.05.04-16.16.22:151][357]LogBlueprintUserMessages: [TwinStickProjectile_C_223] EnemyActor274
+[2023.05.04-16.16.22:563][382]LogBlueprintUserMessages: [TwinStickProjectile_C_225] EnemyActor159
+[2023.05.04-16.16.23:027][410]LogBlueprintUserMessages: [TwinStickProjectile_C_227] EnemyActor272
+[2023.05.04-16.16.23:076][413]LogBlueprintUserMessages: [TwinStickProjectile_C_226] EnemyActor160
+[2023.05.04-16.16.24:488][501]LogBlueprintUserMessages: [TwinStickProjectile_C_231] EnemyActor278
+[2023.05.04-16.16.24:781][519]LogBlueprintUserMessages: [TwinStickProjectile_C_232] EnemyActor161
+[2023.05.04-16.16.25:159][542]LogBlueprintUserMessages: [TwinStickProjectile_C_233] EnemyActor163
+[2023.05.04-16.16.25:651][573]LogBlueprintUserMessages: [TwinStickProjectile_C_234] BloodcellActor114
+[2023.05.04-16.16.26:018][595]LogBlueprintUserMessages: [TwinStickProjectile_C_237] EnemyActor276
+[2023.05.04-16.16.26:018][595]LogBlueprintUserMessages: [TwinStickProjectile_C_236] EnemyActor164
+[2023.05.04-16.16.26:356][615]LogBlueprintUserMessages: [TwinStickProjectile_C_238] EnemyActor162
+[2023.05.04-16.16.27:342][676]LogBlueprintUserMessages: [TwinStickProjectile_C_240] EnemyActor166
+[2023.05.04-16.16.27:344][676]LogBlueprintUserMessages: [TwinStickProjectile_C_240] EnemyActor166
+[2023.05.04-16.16.27:441][682]LogBlueprintUserMessages: [TwinStickProjectile_C_241] EnemyActor282
+[2023.05.04-16.16.27:591][691]LogBlueprintUserMessages: [TwinStickProjectile_C_242] EnemyActor165
+[2023.05.04-16.16.29:002][779]LogBlueprintUserMessages: [TwinStickProjectile_C_247] EnemyActor281
+[2023.05.04-16.16.30:788][890]LogBlueprintUserMessages: [TwinStickProjectile_C_253] EnemyActor170
+[2023.05.04-16.16.31:205][914]LogBlueprintUserMessages: [TwinStickProjectile_C_255] BloodcellActor211
+[2023.05.04-16.16.31:705][944]LogBlueprintUserMessages: [TwinStickProjectile_C_257] EnemyActor169
+[2023.05.04-16.16.32:045][964]LogBlueprintUserMessages: [TwinStickProjectile_C_258] EnemyActor284
+[2023.05.04-16.16.32:424][988]LogBlueprintUserMessages: [TwinStickProjectile_C_259] EnemyActor286
+[2023.05.04-16.16.33:411][ 47]LogBlueprintUserMessages: [TwinStickProjectile_C_263] EnemyActor171
+[2023.05.04-16.16.33:722][ 67]LogBlueprintUserMessages: [TwinStickProjectile_C_264] EnemyActor287
+[2023.05.04-16.16.34:051][ 86]LogBlueprintUserMessages: [TwinStickProjectile_C_266] EnemyActor285
+[2023.05.04-16.16.35:292][162]LogBlueprintUserMessages: [TwinStickProjectile_C_271] EnemyActor172
+[2023.05.04-16.16.35:428][170]LogBlueprintUserMessages: [TwinStickProjectile_C_270] EnemyActor290
+[2023.05.04-16.16.37:628][304]LogBlueprintUserMessages: [TwinStickProjectile_C_279] EnemyActor174
+[2023.05.04-16.16.37:677][307]LogBlueprintUserMessages: [TwinStickProjectile_C_278] EnemyActor175
+[2023.05.04-16.16.37:728][310]LogBlueprintUserMessages: [TwinStickProjectile_C_280] EnemyActor173
+[2023.05.04-16.16.38:440][355]LogBlueprintUserMessages: [TwinStickProjectile_C_282] EnemyActor291
+[2023.05.04-16.16.39:851][441]LogBlueprintUserMessages: [TwinStickProjectile_C_286] EnemyActor178
+[2023.05.04-16.16.39:872][442]LogBlueprintUserMessages: [TwinStickProjectile_C_287] BloodcellActor117
+[2023.05.04-16.16.40:300][468]LogBlueprintUserMessages: [TwinStickProjectile_C_288] BloodcellActor118
+[2023.05.04-16.16.40:903][504]LogBlueprintUserMessages: [TwinStickProjectile_C_291] EnemyActor177
+[2023.05.04-16.16.41:239][525]LogBlueprintUserMessages: [TwinStickProjectile_C_293] EnemyActor176
+[2023.05.04-16.16.42:550][606]LogBlueprintUserMessages: [TwinStickProjectile_C_297] EnemyActor293
+[2023.05.04-16.16.43:201][645]LogBlueprintUserMessages: [TwinStickProjectile_C_299] EnemyActor181
+[2023.05.04-16.16.43:236][647]LogBlueprintUserMessages: [TwinStickProjectile_C_300] EnemyActor292
+[2023.05.04-16.16.44:002][694]LogBlueprintUserMessages: [TwinStickProjectile_C_303] EnemyActor179
+[2023.05.04-16.16.44:238][708]LogBlueprintUserMessages: [TwinStickProjectile_C_304] EnemyActor180
+[2023.05.04-16.16.44:998][754]LogBlueprintUserMessages: [TwinStickProjectile_C_306] EnemyActor182
+[2023.05.04-16.16.45:851][806]LogBlueprintUserMessages: [TwinStickProjectile_C_309] EnemyActor183
+[2023.05.04-16.16.45:910][809]LogBlueprintUserMessages: [TwinStickProjectile_C_308] EnemyActor184
+[2023.05.04-16.16.46:555][848]LogBlueprintUserMessages: [TwinStickProjectile_C_311] EnemyActor298
+[2023.05.04-16.16.46:746][860]LogBlueprintUserMessages: [TwinStickProjectile_C_313] EnemyActor296
+[2023.05.04-16.16.46:986][875]LogBlueprintUserMessages: [TwinStickProjectile_C_312] EnemyActor299
+[2023.05.04-16.16.48:274][955]LogBlueprintUserMessages: [TwinStickProjectile_C_317] EnemyActor2103
+[2023.05.04-16.16.48:937][995]LogBlueprintUserMessages: [TwinStickProjectile_C_319] EnemyActor186
+[2023.05.04-16.16.49:208][ 12]LogBlueprintUserMessages: [TwinStickProjectile_C_320] EnemyActor2102
+[2023.05.04-16.16.49:599][ 36]LogBlueprintUserMessages: [TwinStickProjectile_C_323] EnemyActor185
+[2023.05.04-16.16.49:796][ 48]LogBlueprintUserMessages: [TwinStickProjectile_C_322] EnemyActor188
+[2023.05.04-16.16.50:111][ 68]LogBlueprintUserMessages: [TwinStickProjectile_C_324] EnemyActor187
+[2023.05.04-16.16.50:754][108]LogBlueprintUserMessages: [TwinStickProjectile_C_325] BloodcellActor120
+[2023.05.04-16.16.51:351][144]LogBlueprintUserMessages: [TwinStickProjectile_C_328] EnemyActor189
+[2023.05.04-16.16.51:969][182]LogBlueprintUserMessages: [TwinStickProjectile_C_330] EnemyActor2105
+[2023.05.04-16.16.52:333][205]LogBlueprintUserMessages: [TwinStickProjectile_C_331] EnemyActor190
+[2023.05.04-16.16.52:334][205]LogBlueprintUserMessages: [TwinStickProjectile_C_333] EnemyActor2104
+[2023.05.04-16.16.52:894][240]LogBlueprintUserMessages: [TwinStickProjectile_C_334] EnemyActor191
+[2023.05.04-16.16.54:540][341]LogBlueprintUserMessages: [TwinStickProjectile_C_339] EnemyActor195
+[2023.05.04-16.16.55:200][380]LogBlueprintUserMessages: [TwinStickProjectile_C_342] EnemyActor194
+[2023.05.04-16.16.55:820][418]LogBlueprintUserMessages: [TwinStickProjectile_C_344] EnemyActor196
+[2023.05.04-16.16.55:993][429]LogBlueprintUserMessages: [TwinStickProjectile_C_346] EnemyActor192
+[2023.05.04-16.16.56:635][469]LogBlueprintUserMessages: [TwinStickProjectile_C_347] EnemyActor2109
+[2023.05.04-16.16.57:389][516]LogBlueprintUserMessages: [TwinStickProjectile_C_350] EnemyActor197
+[2023.05.04-16.16.57:717][536]LogBlueprintUserMessages: [TwinStickProjectile_C_351] EnemyActor2110
+[2023.05.04-16.16.58:247][568]LogBlueprintUserMessages: [TwinStickProjectile_C_353] EnemyActor198
+[2023.05.04-16.16.58:757][599]LogBlueprintUserMessages: [TwinStickProjectile_C_354] EnemyActor199
+[2023.05.04-16.16.59:578][650]LogBlueprintUserMessages: [TwinStickProjectile_C_357] EnemyActor1102
+[2023.05.04-16.17.00:566][710]LogBlueprintUserMessages: [TwinStickProjectile_C_360] EnemyActor2111
+[2023.05.04-16.17.00:994][736]LogBlueprintUserMessages: [TwinStickProjectile_C_364] EnemyActor1100
+[2023.05.04-16.17.01:603][773]LogBlueprintUserMessages: [TwinStickProjectile_C_365] EnemyActor1103
+[2023.05.04-16.17.02:649][836]LogBlueprintUserMessages: [TwinStickProjectile_C_369] EnemyActor1106
+[2023.05.04-16.17.03:614][893]LogBlueprintUserMessages: [TwinStickProjectile_C_374] EnemyActor1104
+[2023.05.04-16.17.04:249][931]LogBlueprintUserMessages: [TwinStickProjectile_C_376] EnemyActor1105
+[2023.05.04-16.17.05:189][988]LogBlueprintUserMessages: [TwinStickProjectile_C_379] EnemyActor2115
+[2023.05.04-16.17.06:656][ 77]LogBlueprintUserMessages: [TwinStickProjectile_C_385] EnemyActor1107
+[2023.05.04-16.17.07:031][100]LogBlueprintUserMessages: [TwinStickProjectile_C_386] EnemyActor1108
+[2023.05.04-16.17.07:705][142]LogBlueprintUserMessages: [TwinStickProjectile_C_387] EnemyActor1109
+[2023.05.04-16.17.08:684][202]LogBlueprintUserMessages: [TwinStickProjectile_C_392] EnemyActor2117
+[2023.05.04-16.17.09:580][257]LogBlueprintUserMessages: [TwinStickProjectile_C_395] EnemyActor1110
+[2023.05.04-16.17.10:157][291]LogBlueprintUserMessages: [TwinStickProjectile_C_396] BloodcellActor219
+[2023.05.04-16.17.10:300][299]LogBlueprintUserMessages: [TwinStickProjectile_C_397] EnemyActor1111
+[2023.05.04-16.17.10:735][325]LogBlueprintUserMessages: [TwinStickProjectile_C_398] EnemyActor1114
+[2023.05.04-16.17.12:502][429]LogBlueprintUserMessages: [TwinStickProjectile_C_405] EnemyActor2120
+[2023.05.04-16.17.12:725][442]LogBlueprintUserMessages: [TwinStickProjectile_C_407] EnemyActor1112
+[2023.05.04-16.17.13:100][465]LogBlueprintUserMessages: [TwinStickProjectile_C_408] EnemyActor1113
+[2023.05.04-16.17.13:626][497]LogBlueprintUserMessages: [TwinStickProjectile_C_409] EnemyActor1116
+[2023.05.04-16.17.15:056][582]LogBlueprintUserMessages: [TwinStickProjectile_C_414] EnemyActor2123
+[2023.05.04-16.17.15:337][599]LogBlueprintUserMessages: [TwinStickProjectile_C_415] EnemyActor2122
+[2023.05.04-16.17.15:773][625]LogBlueprintUserMessages: [TwinStickProjectile_C_417] BloodcellActor221
+[2023.05.04-16.17.16:212][651]LogBlueprintUserMessages: [TwinStickProjectile_C_420] EnemyActor1115
+[2023.05.04-16.17.16:584][674]LogBlueprintUserMessages: [TwinStickProjectile_C_421] EnemyActor1117
+[2023.05.04-16.17.16:739][683]LogBlueprintUserMessages: [TwinStickProjectile_C_419] EnemyActor1120
+[2023.05.04-16.17.17:720][742]LogBlueprintUserMessages: [TwinStickProjectile_C_424] BloodcellActor222
+[2023.05.04-16.17.18:846][808]LogBlueprintUserMessages: [TwinStickProjectile_C_427] EnemyActor1123
+[2023.05.04-16.17.18:930][813]LogBlueprintUserMessages: [TwinStickProjectile_C_429] EnemyActor1119
+[2023.05.04-16.17.19:260][832]LogBlueprintUserMessages: [TwinStickProjectile_C_431] EnemyActor1118
+[2023.05.04-16.17.19:309][835]LogBlueprintUserMessages: [TwinStickProjectile_C_430] EnemyActor1122
+[2023.05.04-16.17.20:031][879]LogBlueprintUserMessages: [TwinStickProjectile_C_432] EnemyActor2128
+[2023.05.04-16.17.20:886][930]LogBlueprintUserMessages: [TwinStickProjectile_C_435] EnemyActor2131
+[2023.05.04-16.17.21:624][976]LogBlueprintUserMessages: [TwinStickProjectile_C_438] EnemyActor1124
+[2023.05.04-16.17.22:457][ 27]LogBlueprintUserMessages: [TwinStickProjectile_C_443] EnemyActor2126
+[2023.05.04-16.17.22:846][ 51]LogBlueprintUserMessages: [TwinStickProjectile_C_442] EnemyActor1127
+[2023.05.04-16.17.23:395][ 84]LogBlueprintUserMessages: [TwinStickProjectile_C_445] EnemyActor1125
+[2023.05.04-16.17.24:608][157]LogBlueprintUserMessages: [TwinStickProjectile_C_448] EnemyActor2135
+[2023.05.04-16.17.24:744][165]LogBlueprintUserMessages: [TwinStickProjectile_C_450] EnemyActor1126
+[2023.05.04-16.17.25:488][210]LogBlueprintUserMessages: [TwinStickProjectile_C_453] EnemyActor2134
+[2023.05.04-16.17.26:257][257]LogBlueprintUserMessages: [TwinStickProjectile_C_454] BloodcellActor226
+[2023.05.04-16.17.26:852][293]LogBlueprintUserMessages: [TwinStickProjectile_C_457] EnemyActor1129
+[2023.05.04-16.17.27:183][313]LogBlueprintUserMessages: [TwinStickProjectile_C_458] EnemyActor2138
+[2023.05.04-16.17.28:317][379]LogBlueprintUserMessages: [TwinStickProjectile_C_462] EnemyActor1131
+[2023.05.04-16.17.28:400][384]LogBlueprintUserMessages: [TwinStickProjectile_C_463] EnemyActor1130
+[2023.05.04-16.17.30:110][489]LogBlueprintUserMessages: [TwinStickProjectile_C_468] BloodcellActor228
+[2023.05.04-16.17.30:191][494]LogBlueprintUserMessages: [TwinStickProjectile_C_469] BloodcellActor227
+[2023.05.04-16.17.30:256][498]LogBlueprintUserMessages: [TwinStickProjectile_C_470] BloodcellActor225
+[2023.05.04-16.17.30:674][524]LogBlueprintUserMessages: [TwinStickProjectile_C_471] EnemyActor2142
+[2023.05.04-16.17.30:869][536]LogBlueprintUserMessages: [TwinStickProjectile_C_473] EnemyActor2141
+[2023.05.04-16.17.31:522][575]LogBlueprintUserMessages: [TwinStickProjectile_C_475] EnemyActor1133
+[2023.05.04-16.17.32:430][630]LogBlueprintUserMessages: [TwinStickProjectile_C_477] EnemyActor1136
+[2023.05.04-16.17.33:233][679]LogBlueprintUserMessages: [TwinStickProjectile_C_481] EnemyActor1134
+[2023.05.04-16.17.33:293][682]LogBlueprintUserMessages: [TwinStickProjectile_C_480] EnemyActor1137
+[2023.05.04-16.17.33:653][704]LogBlueprintUserMessages: [TwinStickProjectile_C_484] EnemyActor1132
+[2023.05.04-16.17.33:773][711]LogBlueprintUserMessages: [TwinStickProjectile_C_482] EnemyActor1138
+[2023.05.04-16.17.34:557][758]LogBlueprintUserMessages: [TwinStickProjectile_C_486] EnemyActor1135
+[2023.05.04-16.17.35:099][790]LogBlueprintUserMessages: [TwinStickProjectile_C_487] EnemyActor1140
+[2023.05.04-16.17.35:795][833]LogBlueprintUserMessages: [TwinStickProjectile_C_492] EnemyActor2143
+[2023.05.04-16.17.36:320][864]LogBlueprintUserMessages: [TwinStickProjectile_C_491] EnemyActor1143
+[2023.05.04-16.17.37:337][925]LogBlueprintUserMessages: [TwinStickProjectile_C_496] BloodcellActor229
+[2023.05.04-16.17.37:352][926]LogBlueprintUserMessages: [TwinStickProjectile_C_495] EnemyActor2147
+[2023.05.04-16.17.37:839][954]LogBlueprintUserMessages: [TwinStickProjectile_C_498] EnemyActor1142
+[2023.05.04-16.17.38:034][966]LogBlueprintUserMessages: [TwinStickProjectile_C_497] EnemyActor1145
+[2023.05.04-16.17.38:876][ 17]LogBlueprintUserMessages: [TwinStickProjectile_C_499] EnemyActor2152
+[2023.05.04-16.17.39:172][ 35]LogBlueprintUserMessages: [TwinStickProjectile_C_501] EnemyActor1144
+[2023.05.04-16.17.39:525][ 56]LogBlueprintUserMessages: [TwinStickProjectile_C_503] EnemyActor2150
+[2023.05.04-16.17.39:866][ 77]LogBlueprintUserMessages: [TwinStickProjectile_C_505] EnemyActor2148
+[2023.05.04-16.17.40:823][134]LogBlueprintUserMessages: [TwinStickProjectile_C_509] EnemyActor2149
+[2023.05.04-16.17.41:348][165]LogBlueprintUserMessages: [TwinStickProjectile_C_510] EnemyActor2153
+[2023.05.04-16.17.43:425][292]LogBlueprintUserMessages: [TwinStickProjectile_C_517] BloodcellActor127
+[2023.05.04-16.17.43:791][314]LogBlueprintUserMessages: [TwinStickProjectile_C_519] EnemyActor1148
+[2023.05.04-16.17.44:132][334]LogBlueprintUserMessages: [TwinStickProjectile_C_521] EnemyActor1147
+[2023.05.04-16.17.44:333][346]LogBlueprintUserMessages: [TwinStickProjectile_C_520] EnemyActor1150
+[2023.05.04-16.17.44:944][382]LogBlueprintUserMessages: [TwinStickProjectile_C_522] BloodcellActor128
+[2023.05.04-16.17.45:355][406]LogBlueprintUserMessages: [TwinStickProjectile_C_524] EnemyActor2155
+[2023.05.04-16.17.45:777][432]LogBlueprintUserMessages: [TwinStickProjectile_C_525] BloodcellActor129
+[2023.05.04-16.17.46:103][452]LogBlueprintUserMessages: [TwinStickProjectile_C_527] EnemyActor1152
+[2023.05.04-16.17.46:489][475]LogBlueprintUserMessages: [TwinStickProjectile_C_528] EnemyActor1153
+[2023.05.04-16.17.46:998][505]LogBlueprintUserMessages: [TwinStickProjectile_C_532] EnemyActor1149
+[2023.05.04-16.17.47:081][510]LogBlueprintUserMessages: [TwinStickProjectile_C_531] EnemyActor1151
+[2023.05.04-16.17.47:826][555]LogBlueprintUserMessages: [TwinStickProjectile_C_533] EnemyActor1154
+[2023.05.04-16.17.49:581][659]LogBlueprintUserMessages: [TwinStickProjectile_C_540] EnemyActor2157
+[2023.05.04-16.17.49:987][684]LogBlueprintUserMessages: [TwinStickProjectile_C_541] BloodcellActor231
+[2023.05.04-16.17.50:394][708]LogBlueprintUserMessages: [TwinStickProjectile_C_543] BloodcellActor230
+[2023.05.04-16.17.52:294][821]LogBlueprintUserMessages: [TwinStickProjectile_C_549] EnemyActor2158
+[2023.05.04-16.17.52:952][861]LogBlueprintUserMessages: [TwinStickProjectile_C_553] EnemyActor2159
+[2023.05.04-16.17.53:137][872]LogBlueprintUserMessages: [TwinStickProjectile_C_552] EnemyActor2162
+[2023.05.04-16.17.53:380][887]LogBlueprintUserMessages: [TwinStickProjectile_C_554] EnemyActor1157
+[2023.05.04-16.17.53:666][904]LogBlueprintUserMessages: [TwinStickProjectile_C_556] EnemyActor2160
+[2023.05.04-16.17.53:765][910]LogBlueprintUserMessages: [TwinStickProjectile_C_555] EnemyActor1158
+[2023.05.04-16.17.55:521][ 14]LogBlueprintUserMessages: [TwinStickProjectile_C_562] EnemyActor2163
+[2023.05.04-16.17.55:558][ 16]LogBlueprintUserMessages: [TwinStickProjectile_C_561] EnemyActor2166
+[2023.05.04-16.17.56:036][ 44]LogBlueprintUserMessages: [TwinStickProjectile_C_564] EnemyActor1159
+[2023.05.04-16.17.56:978][100]LogBlueprintUserMessages: [TwinStickProjectile_C_568] EnemyActor1160
+[2023.05.04-16.17.57:048][104]LogBlueprintUserMessages: [TwinStickProjectile_C_566] EnemyActor2168
+[2023.05.04-16.17.57:142][110]LogBlueprintUserMessages: [TwinStickProjectile_C_567] EnemyActor2167
+[2023.05.04-16.17.57:648][141]LogBlueprintUserMessages: [TwinStickProjectile_C_569] EnemyActor1164
+[2023.05.04-16.17.58:498][192]LogBlueprintUserMessages: [TwinStickProjectile_C_572] EnemyActor1165
+[2023.05.04-16.17.58:882][216]LogBlueprintUserMessages: [TwinStickProjectile_C_573] EnemyActor1166
+[2023.05.04-16.17.59:001][223]LogBlueprintUserMessages: [TwinStickProjectile_C_575] EnemyActor1162
+[2023.05.04-16.17.59:514][253]LogBlueprintUserMessages: [TwinStickProjectile_C_577] EnemyActor1161
+[2023.05.04-16.18.00:540][315]LogBlueprintUserMessages: [TwinStickProjectile_C_579] BloodcellActor133
+[2023.05.04-16.18.01:893][396]LogBlueprintUserMessages: [TwinStickProjectile_C_584] EnemyActor1169
+[2023.05.04-16.18.02:359][424]LogBlueprintUserMessages: [TwinStickProjectile_C_586] BloodcellActor134
+[2023.05.04-16.18.02:761][448]LogBlueprintUserMessages: [TwinStickProjectile_C_588] BloodcellActor132
+[2023.05.04-16.18.02:775][449]LogBlueprintUserMessages: [TwinStickProjectile_C_589] EnemyActor1167
+[2023.05.04-16.18.04:072][527]LogBlueprintUserMessages: [TwinStickProjectile_C_591] EnemyActor1173
+[2023.05.04-16.18.04:259][538]LogBlueprintUserMessages: [TwinStickProjectile_C_594] EnemyActor1168
+[2023.05.04-16.18.04:489][552]LogBlueprintUserMessages: [TwinStickProjectile_C_593] EnemyActor1172
+[2023.05.04-16.18.04:760][568]LogBlueprintUserMessages: [TwinStickProjectile_C_595] EnemyActor1171
+[2023.05.04-16.18.05:132][590]LogBlueprintUserMessages: [TwinStickProjectile_C_596] EnemyActor2170
+[2023.05.04-16.18.05:694][625]LogBlueprintUserMessages: [TwinStickProjectile_C_599] EnemyActor2169
+[2023.05.04-16.18.07:348][724]LogBlueprintUserMessages: [TwinStickProjectile_C_604] EnemyActor1176
+[2023.05.04-16.18.07:689][744]LogBlueprintUserMessages: [TwinStickProjectile_C_605] EnemyActor2174
+[2023.05.04-16.18.07:775][749]LogBlueprintUserMessages: [TwinStickProjectile_C_606] EnemyActor2172
+[2023.05.04-16.18.08:383][785]LogBlueprintUserMessages: [TwinStickProjectile_C_609] EnemyActor1174
+[2023.05.04-16.18.08:397][786]LogBlueprintUserMessages: [TwinStickProjectile_C_608] EnemyActor1175
+[2023.05.04-16.18.08:910][817]LogBlueprintUserMessages: [TwinStickProjectile_C_610] EnemyActor1177
+[2023.05.04-16.18.09:993][883]LogBlueprintUserMessages: [TwinStickProjectile_C_613] EnemyActor1180
+[2023.05.04-16.18.10:407][908]LogBlueprintUserMessages: [TwinStickProjectile_C_614] BloodcellActor236
+[2023.05.04-16.18.11:118][951]LogBlueprintUserMessages: [TwinStickProjectile_C_617] EnemyActor2178
+[2023.05.04-16.18.11:460][971]LogBlueprintUserMessages: [TwinStickProjectile_C_620] EnemyActor1178
+[2023.05.04-16.18.11:990][  3]LogBlueprintUserMessages: [TwinStickProjectile_C_621] EnemyActor1181
+[2023.05.04-16.18.13:210][ 77]LogBlueprintUserMessages: [TwinStickProjectile_C_625] EnemyActor1182
+[2023.05.04-16.18.13:799][112]LogBlueprintUserMessages: [TwinStickProjectile_C_627] BloodcellActor237
+[2023.05.04-16.18.14:082][129]LogBlueprintUserMessages: [TwinStickProjectile_C_628] EnemyActor2179
+[2023.05.04-16.18.14:291][141]LogBlueprintUserMessages: [TwinStickProjectile_C_631] EnemyActor2177
+[2023.05.04-16.18.14:687][165]LogBlueprintUserMessages: [TwinStickProjectile_C_630] EnemyActor1184
+[2023.05.04-16.18.15:008][184]LogBlueprintUserMessages: [TwinStickProjectile_C_632] EnemyActor1183
+[2023.05.04-16.18.15:553][216]LogBlueprintUserMessages: [TwinStickProjectile_C_633] BloodcellActor136
+[2023.05.04-16.18.16:398][267]LogBlueprintUserMessages: [TwinStickProjectile_C_636] BloodcellActor137
+[2023.05.04-16.18.16:471][271]LogBlueprintUserMessages: [TwinStickProjectile_C_637] EnemyActor1186
+[2023.05.04-16.18.16:902][297]LogBlueprintUserMessages: [TwinStickProjectile_C_639] EnemyActor2181
+[2023.05.04-16.18.17:174][314]LogBlueprintUserMessages: [TwinStickProjectile_C_638] EnemyActor1188
+[2023.05.04-16.18.17:292][321]LogBlueprintUserMessages: [TwinStickProjectile_C_641] EnemyActor1185
+[2023.05.04-16.18.19:519][456]LogBlueprintUserMessages: [TwinStickProjectile_C_648] BloodcellActor138
+[2023.05.04-16.18.20:056][488]LogBlueprintUserMessages: [TwinStickProjectile_C_651] EnemyActor2184
+[2023.05.04-16.18.20:057][488]LogBlueprintUserMessages: [TwinStickProjectile_C_649] BloodcellActor239
+[2023.05.04-16.18.20:563][518]LogBlueprintUserMessages: [TwinStickProjectile_C_652] EnemyActor2186
+[2023.05.04-16.18.20:646][523]LogBlueprintUserMessages: [TwinStickProjectile_C_653] EnemyActor2185
+[2023.05.04-16.18.20:647][523]LogBlueprintUserMessages: [TwinStickProjectile_C_654] EnemyActor1187
+[2023.05.04-16.18.21:412][569]LogBlueprintUserMessages: [TwinStickProjectile_C_655] EnemyActor2187
+[2023.05.04-16.18.21:996][603]LogBlueprintUserMessages: [TwinStickProjectile_C_657] EnemyActor2189
+[2023.05.04-16.18.22:464][631]LogBlueprintUserMessages: [TwinStickProjectile_C_658] EnemyActor1191
+[2023.05.04-16.18.22:748][648]LogBlueprintUserMessages: [TwinStickProjectile_C_660] EnemyActor2190
+[2023.05.04-16.18.23:065][668]LogBlueprintUserMessages: [TwinStickProjectile_C_662] EnemyActor2188
+[2023.05.04-16.18.23:492][694]LogBlueprintUserMessages: [TwinStickProjectile_C_663] EnemyActor1190
+[2023.05.04-16.18.23:835][715]LogBlueprintUserMessages: [TwinStickProjectile_C_665] EnemyActor1189
+[2023.05.04-16.18.25:229][798]LogBlueprintUserMessages: [TwinStickProjectile_C_669] EnemyActor1192
+[2023.05.04-16.18.27:849][959]LogBlueprintUserMessages: [TwinStickProjectile_C_674] EnemyActor2193
+[2023.05.04-16.18.28:067][972]LogBlueprintUserMessages: [TwinStickProjectile_C_673] EnemyActor2197
+[2023.05.04-16.18.29:082][ 32]LogBlueprintUserMessages: [TwinStickProjectile_C_677] EnemyActor2195
+[2023.05.04-16.18.30:284][103]LogBlueprintUserMessages: [TwinStickProjectile_C_683] EnemyActor2194
+[2023.05.04-16.18.30:334][106]LogBlueprintUserMessages: [TwinStickProjectile_C_682] EnemyActor2198
+[2023.05.04-16.18.30:995][146]LogBlueprintUserMessages: [TwinStickProjectile_C_684] EnemyActor1198
+[2023.05.04-16.18.31:327][166]LogBlueprintUserMessages: [TwinStickProjectile_C_686] EnemyActor1196
+[2023.05.04-16.18.31:355][168]LogBlueprintUserMessages: [TwinStickProjectile_C_688] EnemyActor1193
+[2023.05.04-16.18.31:428][172]LogBlueprintUserMessages: [TwinStickProjectile_C_687] EnemyActor1194
+[2023.05.04-16.18.31:622][184]LogBlueprintUserMessages: [TwinStickProjectile_C_685] BloodcellActor140
+[2023.05.04-16.18.32:929][262]LogBlueprintUserMessages: [TwinStickProjectile_C_691] EnemyActor1200
+[2023.05.04-16.18.33:015][267]LogBlueprintUserMessages: [TwinStickProjectile_C_692] EnemyActor1197
+[2023.05.04-16.18.33:880][320]LogBlueprintUserMessages: [TwinStickProjectile_C_695] EnemyActor1201
+[2023.05.04-16.18.34:065][331]LogBlueprintUserMessages: [TwinStickProjectile_C_694] BloodcellActor240
+[2023.05.04-16.18.34:507][357]LogBlueprintUserMessages: [TwinStickProjectile_C_696] EnemyActor2202
+[2023.05.04-16.18.35:409][410]LogBlueprintUserMessages: [TwinStickProjectile_C_699] BloodcellActor241
+[2023.05.04-16.18.36:488][474]LogBlueprintUserMessages: [TwinStickProjectile_C_703] EnemyActor1205
+[2023.05.04-16.18.36:709][487]LogBlueprintUserMessages: [TwinStickProjectile_C_706] EnemyActor2201
+[2023.05.04-16.18.37:037][506]LogBlueprintUserMessages: [TwinStickProjectile_C_708] EnemyActor2200
+[2023.05.04-16.18.37:182][514]LogBlueprintUserMessages: [TwinStickProjectile_C_707] EnemyActor1202
+[2023.05.04-16.18.37:609][540]LogBlueprintUserMessages: [TwinStickProjectile_C_709] EnemyActor1203
+[2023.05.04-16.18.37:973][562]LogBlueprintUserMessages: [TwinStickProjectile_C_710] EnemyActor1204
+[2023.05.04-16.18.39:492][652]LogBlueprintUserMessages: [TwinStickProjectile_C_714] BloodcellActor243
+[2023.05.04-16.18.39:732][667]LogBlueprintUserMessages: [TwinStickProjectile_C_715] EnemyActor1208
+[2023.05.04-16.18.40:131][691]LogBlueprintUserMessages: [TwinStickProjectile_C_718] EnemyActor1206
+[2023.05.04-16.18.41:223][758]LogBlueprintUserMessages: [TwinStickProjectile_C_722] EnemyActor1207
+[2023.05.04-16.18.41:421][770]LogBlueprintUserMessages: [TwinStickProjectile_C_721] EnemyActor2206
+[2023.05.04-16.18.41:603][781]LogBlueprintUserMessages: [TwinStickProjectile_C_723] EnemyActor1209
+[2023.05.04-16.18.41:972][803]LogBlueprintUserMessages: [TwinStickProjectile_C_724] EnemyActor1211
+[2023.05.04-16.18.43:540][897]LogBlueprintUserMessages: [TwinStickProjectile_C_730] EnemyActor1213
+[2023.05.04-16.18.43:659][904]LogBlueprintUserMessages: [TwinStickProjectile_C_731] BloodcellActor242
+[2023.05.04-16.18.44:108][931]LogBlueprintUserMessages: [TwinStickProjectile_C_733] EnemyActor1212
+[2023.05.04-16.18.44:401][949]LogBlueprintUserMessages: [TwinStickProjectile_C_732] EnemyActor1214
+[2023.05.04-16.18.45:101][991]LogBlueprintUserMessages: [TwinStickProjectile_C_735] EnemyActor2211
+[2023.05.04-16.18.46:530][ 76]LogBlueprintUserMessages: [TwinStickProjectile_C_741] EnemyActor2209
+[2023.05.04-16.18.47:226][118]LogBlueprintUserMessages: [TwinStickProjectile_C_744] EnemyActor2210
+[2023.05.04-16.18.47:396][128]LogBlueprintUserMessages: [TwinStickProjectile_C_743] BloodcellActor142
+[2023.05.04-16.18.47:814][153]LogBlueprintUserMessages: [TwinStickProjectile_C_745] EnemyActor1215
+[2023.05.04-16.18.49:251][240]LogBlueprintUserMessages: [TwinStickProjectile_C_749] EnemyActor1216
+[2023.05.04-16.18.49:550][258]LogBlueprintUserMessages: [TwinStickProjectile_C_752] EnemyActor2213
+[2023.05.04-16.18.49:648][264]LogBlueprintUserMessages: [TwinStickProjectile_C_751] EnemyActor1218
+[2023.05.04-16.18.50:129][292]LogBlueprintUserMessages: [TwinStickProjectile_C_753] EnemyActor1217
+[2023.05.04-16.18.50:129][292]LogBlueprintUserMessages: [TwinStickProjectile_C_755] EnemyActor2212
+[2023.05.04-16.18.50:471][312]LogBlueprintUserMessages: [TwinStickProjectile_C_754] EnemyActor2214
+[2023.05.04-16.18.50:842][334]LogBlueprintUserMessages: [TwinStickProjectile_C_756] BloodcellActor143
+[2023.05.04-16.18.51:626][380]LogBlueprintUserMessages: [TwinStickProjectile_C_758] BloodcellActor246
+[2023.05.04-16.18.51:844][393]LogBlueprintUserMessages: [TwinStickProjectile_C_759] EnemyActor1220
+[2023.05.04-16.18.52:163][412]LogBlueprintUserMessages: [TwinStickProjectile_C_761] EnemyActor1219
+[2023.05.04-16.18.52:649][442]LogBlueprintUserMessages: [TwinStickProjectile_C_762] EnemyActor2219
+[2023.05.04-16.18.53:164][473]LogBlueprintUserMessages: [TwinStickProjectile_C_766] EnemyActor2216
+[2023.05.04-16.18.53:369][485]LogBlueprintUserMessages: [TwinStickProjectile_C_765] EnemyActor2220
+[2023.05.04-16.18.53:740][508]LogBlueprintUserMessages: [TwinStickProjectile_C_767] EnemyActor1221
+[2023.05.04-16.18.55:385][607]LogBlueprintUserMessages: [TwinStickProjectile_C_772] BloodcellActor247
+[2023.05.04-16.18.56:018][645]LogBlueprintUserMessages: [TwinStickProjectile_C_775] EnemyActor2221
+[2023.05.04-16.18.56:114][651]LogBlueprintUserMessages: [TwinStickProjectile_C_776] EnemyActor1222
+[2023.05.04-16.18.56:681][684]LogBlueprintUserMessages: [TwinStickProjectile_C_777] BloodcellActor144
+[2023.05.04-16.18.57:467][731]LogBlueprintUserMessages: [TwinStickProjectile_C_780] EnemyActor2222
+[2023.05.04-16.18.58:175][774]LogBlueprintUserMessages: [TwinStickProjectile_C_783] EnemyActor2223
+[2023.05.04-16.18.59:019][825]LogBlueprintUserMessages: [TwinStickProjectile_C_787] EnemyActor1223
+[2023.05.04-16.18.59:176][835]LogBlueprintUserMessages: [TwinStickProjectile_C_786] EnemyActor2225
+[2023.05.04-16.18.59:839][875]LogBlueprintUserMessages: [TwinStickProjectile_C_788] EnemyActor1227
+[2023.05.04-16.19.00:610][921]LogBlueprintUserMessages: [TwinStickProjectile_C_790] EnemyActor2228
+[2023.05.04-16.19.01:029][946]LogBlueprintUserMessages: [TwinStickProjectile_C_793] EnemyActor1226
+[2023.05.04-16.19.01:207][956]LogBlueprintUserMessages: [TwinStickProjectile_C_795] EnemyActor1224
+[2023.05.04-16.19.01:383][967]LogBlueprintUserMessages: [TwinStickProjectile_C_794] EnemyActor1225
+[2023.05.04-16.19.01:779][991]LogBlueprintUserMessages: [TwinStickProjectile_C_797] EnemyActor2226
+[2023.05.04-16.19.01:985][  3]LogBlueprintUserMessages: [TwinStickProjectile_C_796] EnemyActor2227
+[2023.05.04-16.19.03:317][ 81]LogBlueprintUserMessages: [TwinStickProjectile_C_801] EnemyActor2231
+[2023.05.04-16.19.04:014][122]LogBlueprintUserMessages: [TwinStickProjectile_C_803] BloodcellActor146
+[2023.05.04-16.19.04:078][126]LogBlueprintUserMessages: [TwinStickProjectile_C_804] EnemyActor1229
+[2023.05.04-16.19.04:452][148]LogBlueprintUserMessages: [TwinStickProjectile_C_805] EnemyActor1230
+[2023.05.04-16.19.04:807][169]LogBlueprintUserMessages: [TwinStickProjectile_C_808] EnemyActor2230
+[2023.05.04-16.19.06:144][247]LogBlueprintUserMessages: [TwinStickProjectile_C_811] EnemyActor1235
+[2023.05.04-16.19.06:636][277]LogBlueprintUserMessages: [TwinStickProjectile_C_812] EnemyActor2232
+[2023.05.04-16.19.06:964][296]LogBlueprintUserMessages: [TwinStickProjectile_C_815] EnemyActor1233
+[2023.05.04-16.19.07:527][330]LogBlueprintUserMessages: [TwinStickProjectile_C_818] EnemyActor1231
+[2023.05.04-16.19.07:541][331]LogBlueprintUserMessages: [TwinStickProjectile_C_816] EnemyActor1234
+[2023.05.04-16.19.08:404][383]LogBlueprintUserMessages: [TwinStickProjectile_C_819] EnemyActor2234
+[2023.05.04-16.19.08:811][407]LogBlueprintUserMessages: [TwinStickProjectile_C_821] EnemyActor1236
+[2023.05.04-16.19.09:187][429]LogBlueprintUserMessages: [TwinStickProjectile_C_822] EnemyActor2235
+[2023.05.04-16.19.09:427][443]LogBlueprintUserMessages: [TwinStickProjectile_C_823] EnemyActor1237
+[2023.05.04-16.19.10:237][491]LogBlueprintUserMessages: [TwinStickProjectile_C_826] EnemyActor2238
+[2023.05.04-16.19.10:422][502]LogBlueprintUserMessages: [TwinStickProjectile_C_828] EnemyActor2233
+[2023.05.04-16.19.10:965][534]LogBlueprintUserMessages: [TwinStickProjectile_C_829] EnemyActor2239
+[2023.05.04-16.19.11:951][591]LogBlueprintUserMessages: [TwinStickProjectile_C_831] EnemyActor1240
+[2023.05.04-16.19.12:354][616]LogBlueprintUserMessages: [TwinStickProjectile_C_833] BloodcellActor251
+[2023.05.04-16.19.12:656][634]LogBlueprintUserMessages: [TwinStickProjectile_C_835] EnemyActor2240
+[2023.05.04-16.19.13:373][678]LogBlueprintUserMessages: [TwinStickProjectile_C_839] EnemyActor1238
+[2023.05.04-16.19.13:762][701]LogBlueprintUserMessages: [TwinStickProjectile_C_840] EnemyActor1239
+[2023.05.04-16.19.14:756][761]LogBlueprintUserMessages: [TwinStickProjectile_C_842] EnemyActor2243
+[2023.05.04-16.19.15:836][826]LogBlueprintUserMessages: [TwinStickProjectile_C_846] EnemyActor2246
+[2023.05.04-16.19.16:324][855]LogBlueprintUserMessages: [TwinStickProjectile_C_849] EnemyActor2242
+[2023.05.04-16.19.16:825][885]LogBlueprintUserMessages: [TwinStickProjectile_C_850] EnemyActor1242
+[2023.05.04-16.19.17:464][924]LogBlueprintUserMessages: [TwinStickProjectile_C_852] EnemyActor1243
+[2023.05.04-16.19.18:618][992]LogBlueprintUserMessages: [TwinStickProjectile_C_856] EnemyActor1245
+[2023.05.04-16.19.19:579][ 50]LogBlueprintUserMessages: [TwinStickProjectile_C_860] EnemyActor2249
+[2023.05.04-16.19.19:883][ 67]LogBlueprintUserMessages: [TwinStickProjectile_C_861] EnemyActor1246
+[2023.05.04-16.19.20:201][ 87]LogBlueprintUserMessages: [TwinStickProjectile_C_862] EnemyActor2251
+[2023.05.04-16.19.20:568][109]LogBlueprintUserMessages: [TwinStickProjectile_C_863] EnemyActor2250
+[2023.05.04-16.19.21:934][192]LogBlueprintUserMessages: [TwinStickProjectile_C_868] EnemyActor2253
+[2023.05.04-16.19.22:169][206]LogBlueprintUserMessages: [TwinStickProjectile_C_869] EnemyActor2252
+[2023.05.04-16.19.22:376][218]LogBlueprintUserMessages: [TwinStickProjectile_C_871] EnemyActor1247
+[2023.05.04-16.19.22:998][254]LogBlueprintUserMessages: [TwinStickProjectile_C_872] EnemyActor2255
+[2023.05.04-16.19.23:655][292]LogBlueprintUserMessages: [TwinStickProjectile_C_875] BloodcellActor148
+[2023.05.04-16.19.24:741][356]LogBlueprintUserMessages: [TwinStickProjectile_C_878] BloodcellActor254
+[2023.05.04-16.19.25:432][397]LogBlueprintUserMessages: [TwinStickProjectile_C_881] EnemyActor1248
+[2023.05.04-16.19.25:573][405]LogBlueprintUserMessages: [TwinStickProjectile_C_883] EnemyActor2254
+[2023.05.04-16.19.25:820][420]LogBlueprintUserMessages: [TwinStickProjectile_C_882] EnemyActor1250
+[2023.05.04-16.19.27:138][499]LogBlueprintUserMessages: [TwinStickProjectile_C_887] EnemyActor2260
+[2023.05.04-16.19.27:406][514]LogBlueprintUserMessages: [TwinStickProjectile_C_888] BloodcellActor255
+[2023.05.04-16.19.28:268][566]LogBlueprintUserMessages: [TwinStickProjectile_C_892] EnemyActor2261
+[2023.05.04-16.19.28:693][591]LogBlueprintUserMessages: [TwinStickProjectile_C_895] EnemyActor2258
+[2023.05.04-16.19.28:878][602]LogBlueprintUserMessages: [TwinStickProjectile_C_894] EnemyActor2262
+[2023.05.04-16.19.30:905][725]LogBlueprintUserMessages: [TwinStickProjectile_C_902] EnemyActor2263
+[2023.05.04-16.19.31:286][748]LogBlueprintUserMessages: [TwinStickProjectile_C_904] EnemyActor1252
+[2023.05.04-16.19.31:911][786]LogBlueprintUserMessages: [TwinStickProjectile_C_905] EnemyActor2265
+[2023.05.04-16.19.32:192][802]LogBlueprintUserMessages: [TwinStickProjectile_C_906] EnemyActor1255
+[2023.05.04-16.19.33:194][861]LogBlueprintUserMessages: [TwinStickProjectile_C_909] EnemyActor1256
+[2023.05.04-16.19.33:641][887]LogBlueprintUserMessages: [TwinStickProjectile_C_912] EnemyActor1254
+[2023.05.04-16.19.33:963][906]LogBlueprintUserMessages: [TwinStickProjectile_C_913] EnemyActor2266
+[2023.05.04-16.19.34:805][956]LogBlueprintUserMessages: [TwinStickProjectile_C_916] EnemyActor2268
+[2023.05.04-16.19.34:853][959]LogBlueprintUserMessages: [TwinStickProjectile_C_914] EnemyActor1260
+[2023.05.04-16.19.35:357][989]LogBlueprintUserMessages: [TwinStickProjectile_C_917] EnemyActor1261
+[2023.05.04-16.19.36:873][ 78]LogBlueprintUserMessages: [TwinStickProjectile_C_924] EnemyActor1257
+[2023.05.04-16.19.37:571][120]LogBlueprintUserMessages: [TwinStickProjectile_C_927] EnemyActor1258
+[2023.05.04-16.19.37:648][125]LogBlueprintUserMessages: [TwinStickProjectile_C_926] BloodcellActor256
+[2023.05.04-16.19.37:731][130]LogBlueprintUserMessages: [TwinStickProjectile_C_925] EnemyActor1263
+[2023.05.04-16.19.37:939][142]LogBlueprintUserMessages: [TwinStickProjectile_C_928] EnemyActor1259
+[2023.05.04-16.19.38:328][166]LogBlueprintUserMessages: [TwinStickProjectile_C_929] EnemyActor1262
+[2023.05.04-16.19.38:800][194]LogBlueprintUserMessages: [TwinStickProjectile_C_930] EnemyActor2272
+[2023.05.04-16.19.40:102][274]LogBlueprintUserMessages: [TwinStickProjectile_C_934] BloodcellActor257
+[2023.05.04-16.19.40:125][275]LogBlueprintUserMessages: [TwinStickProjectile_C_935] EnemyActor2273
+[2023.05.04-16.19.41:906][383]LogBlueprintUserMessages: [TwinStickProjectile_C_940] EnemyActor2276
+[2023.05.04-16.19.43:075][453]LogBlueprintUserMessages: [TwinStickProjectile_C_946] EnemyActor1264
+[2023.05.04-16.19.43:538][481]LogBlueprintUserMessages: [TwinStickProjectile_C_947] EnemyActor2277
+[2023.05.04-16.19.43:817][498]LogBlueprintUserMessages: [TwinStickProjectile_C_948] EnemyActor1266
+[2023.05.04-16.19.44:852][561]LogBlueprintUserMessages: [TwinStickProjectile_C_952] EnemyActor2278
+[2023.05.04-16.19.47:892][690]LogSlate: Window 'Body (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.05.04-16.19.47:909][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-16.19.47:909][691]LogEngine: All Windows Closed
+[2023.05.04-16.19.47:909][691]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.05.04-16.19.47:909][691]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.05.04-16.19.47:909][691]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.04-16.19.47:910][692]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.04-16.19.47:911][692]LogInit: Display: PreExit Game.
+[2023.05.04-16.19.47:912][692]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/TwinStickExampleMap
+[2023.05.04-16.19.47:913][692]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-16.19.47:913][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-16.19.48:616][692]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.04-16.19.48:616][692]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.04-16.19.48:617][692]LogAudio: Display: Audio Device unregistered from world 'TwinStickExampleMap'.
+[2023.05.04-16.19.48:620][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-16.19.48:621][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-16.19.48:634][692]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.04-16.19.48:642][692]LogExit: Preparing to exit.
+[2023.05.04-16.19.49:024][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-16.19.49:028][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.05.04-16.19.49:109][692]LogMoviePlayer: Shutting down movie player
+[2023.05.04-16.19.49:366][692]LogExit: Game engine shut down
+[2023.05.04-16.19.49:378][692]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.04-16.19.49:634][692]LogExit: Object subsystem successfully closed.
+[2023.05.04-16.19.49:675][692]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.04-16.19.49:675][692]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.04-16.19.49:675][692]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.04-16.19.49:676][692]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.04-16.19.49:676][692]LogShaderCompilers: Display: ================================================
+[2023.05.04-16.19.49:717][692]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.04-16.19.49:788][692]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (558)
+[2023.05.04-16.19.49:789][692]LogModuleManager: Shutting down and abandoning module SequenceRecorder (556)
+[2023.05.04-16.19.49:789][692]LogModuleManager: Shutting down and abandoning module AutomationController (554)
+[2023.05.04-16.19.49:793][692]LogModuleManager: Shutting down and abandoning module AutomationWorker (552)
+[2023.05.04-16.19.49:794][692]LogModuleManager: Shutting down and abandoning module Voice (550)
+[2023.05.04-16.19.49:794][692]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2023.05.04-16.19.49:795][692]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2023.05.04-16.19.49:796][692]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2023.05.04-16.19.49:797][692]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2023.05.04-16.19.49:797][692]LogModuleManager: Shutting down and abandoning module SteamVREditor (540)
+[2023.05.04-16.19.49:797][692]LogModuleManager: Shutting down and abandoning module ToolMenus (539)
+[2023.05.04-16.19.49:797][692]LogModuleManager: Shutting down and abandoning module OculusMR (536)
+[2023.05.04-16.19.49:797][692]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (534)
+[2023.05.04-16.19.49:798][692]LogModuleManager: Shutting down and abandoning module TakeRecorder (533)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (530)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module TakesCore (528)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module OpenXRInput (526)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (524)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module WebMMedia (522)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (520)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (512)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (510)
+[2023.05.04-16.19.49:799][692]LogModuleManager: Shutting down and abandoning module PlanarCut (508)
+[2023.05.04-16.19.49:801][692]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2023.05.04-16.19.49:801][692]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2023.05.04-16.19.49:801][692]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (502)
+[2023.05.04-16.19.49:802][692]LogModuleManager: Shutting down and abandoning module LiveCoding (500)
+[2023.05.04-16.19.49:802][692]LogModuleManager: Shutting down and abandoning module LevelSequence (498)
+[2023.05.04-16.19.49:802][692]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (496)
+[2023.05.04-16.19.49:802][692]LogModuleManager: Shutting down and abandoning module MovieScene (494)
+[2023.05.04-16.19.49:803][692]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (492)
+[2023.05.04-16.19.49:803][692]LogModuleManager: Shutting down and abandoning module PortalServices (490)
+[2023.05.04-16.19.49:804][692]LogModuleManager: Shutting down and abandoning module PortalRpc (488)
+[2023.05.04-16.19.49:804][692]LogModuleManager: Shutting down and abandoning module MessagingRpc (486)
+[2023.05.04-16.19.49:804][692]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (484)
+[2023.05.04-16.19.49:804][692]LogModuleManager: Shutting down and abandoning module AudioMixerCore (483)
+[2023.05.04-16.19.49:804][692]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (480)
+[2023.05.04-16.19.49:817][692]LogModuleManager: Shutting down and abandoning module ProfilerService (478)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module TaskGraph (476)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module OculusInput (474)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (472)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (470)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (468)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (466)
+[2023.05.04-16.19.49:924][692]LogModuleManager: Shutting down and abandoning module LiveLink (464)
+[2023.05.04-16.19.50:303][692]LogModuleManager: Shutting down and abandoning module TakeMovieScene (462)
+[2023.05.04-16.19.50:303][692]LogModuleManager: Shutting down and abandoning module Synthesis (460)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (458)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (456)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (454)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module GooglePAD (452)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module EditableMesh (450)
+[2023.05.04-16.19.50:304][692]LogModuleManager: Shutting down and abandoning module AudioCapture (448)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (447)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (444)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module AssetTags (442)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module CableComponent (440)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (438)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module AppleImageUtils (436)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module AndroidPermission (434)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (432)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module TemplateSequence (430)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module ImgMedia (428)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MediaCompositing (426)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (424)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (422)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (420)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (418)
+[2023.05.04-16.19.50:305][692]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (416)
+[2023.05.04-16.19.50:306][692]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (414)
+[2023.05.04-16.19.50:306][692]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (412)
+[2023.05.04-16.19.50:306][692]LogModuleManager: Shutting down and abandoning module HotReload (411)
+[2023.05.04-16.19.50:307][692]LogModuleManager: Shutting down and abandoning module MotoSynth (408)
+[2023.05.04-16.19.50:307][692]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (406)
+[2023.05.04-16.19.50:307][692]LogOpenImageDenoise: OIDN shutting down
+[2023.05.04-16.19.50:307][692]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (404)
+[2023.05.04-16.19.50:308][692]LogModuleManager: Shutting down and abandoning module MeshConversion (402)
+[2023.05.04-16.19.50:308][692]LogModuleManager: Shutting down and abandoning module DynamicMesh (400)
+[2023.05.04-16.19.50:309][692]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (398)
+[2023.05.04-16.19.50:310][692]LogModuleManager: Shutting down and abandoning module GeometricObjects (396)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (394)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (393)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (390)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (389)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCache (386)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (385)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module UObjectPlugin (382)
+[2023.05.04-16.19.50:311][692]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (380)
+[2023.05.04-16.19.50:314][692]LogModuleManager: Shutting down and abandoning module SourceControl (379)
+[2023.05.04-16.19.50:314][692]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (376)
+[2023.05.04-16.19.50:314][692]LogModuleManager: Shutting down and abandoning module ChaosNiagara (374)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (373)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module BackChannel (370)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (366)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2023.05.04-16.19.50:315][692]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (362)
+[2023.05.04-16.19.50:317][692]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2023.05.04-16.19.50:317][692]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2023.05.04-16.19.50:317][692]LogModuleManager: Shutting down and abandoning module SignificanceManager (354)
+[2023.05.04-16.19.50:317][692]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (352)
+[2023.05.04-16.19.50:317][692]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (350)
+[2023.05.04-16.19.50:318][692]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (348)
+[2023.05.04-16.19.50:318][692]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2023.05.04-16.19.50:318][692]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (344)
+[2023.05.04-16.19.50:318][692]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (342)
+[2023.05.04-16.19.50:318][692]LogModuleManager: Shutting down and abandoning module UdpMessaging (340)
+[2023.05.04-16.19.50:418][692]LogModuleManager: Shutting down and abandoning module TcpMessaging (338)
+[2023.05.04-16.19.50:521][692]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (336)
+[2023.05.04-16.19.50:521][692]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (334)
+[2023.05.04-16.19.50:521][692]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (332)
+[2023.05.04-16.19.50:522][692]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (330)
+[2023.05.04-16.19.50:523][692]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (328)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (326)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (324)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (322)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapController (320)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (318)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module MagicLeapAR (316)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (314)
+[2023.05.04-16.19.50:523][692]LogModuleManager: Shutting down and abandoning module Niagara (312)
+[2023.05.04-16.19.50:525][692]LogModuleManager: Shutting down and abandoning module SignalProcessing (311)
+[2023.05.04-16.19.50:525][692]LogModuleManager: Shutting down and abandoning module NiagaraEditor (309)
+[2023.05.04-16.19.50:526][692]LogModuleManager: Shutting down and abandoning module ContentBrowser (308)
+[2023.05.04-16.19.50:527][692]LogModuleManager: Shutting down and abandoning module CollectionManager (307)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (306)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module ContentBrowserData (303)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module NiagaraCore (298)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (296)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (294)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module AnimationSharing (292)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module GameplayCameras (290)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module FacialAnimation (288)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (286)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (284)
+[2023.05.04-16.19.50:528][692]LogModuleManager: Shutting down and abandoning module TreeMap (283)
+[2023.05.04-16.19.50:529][692]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (280)
+[2023.05.04-16.19.50:529][692]LogModuleManager: Shutting down and abandoning module Paper2D (278)
+[2023.05.04-16.19.50:530][692]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (276)
+[2023.05.04-16.19.50:531][692]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2023.05.04-16.19.50:541][692]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2023.05.04-16.19.50:541][692]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2023.05.04-16.19.50:541][692]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2023.05.04-16.19.50:541][692]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2023.05.04-16.19.50:541][692]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2023.05.04-16.19.50:542][692]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2023.05.04-16.19.50:542][692]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2023.05.04-16.19.50:542][692]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2023.05.04-16.19.50:542][692]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2023.05.04-16.19.50:543][692]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2023.05.04-16.19.50:543][692]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2023.05.04-16.19.50:543][692]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2023.05.04-16.19.50:546][692]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2023.05.04-16.19.50:546][692]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2023.05.04-16.19.50:548][692]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2023.05.04-16.19.50:553][692]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2023.05.04-16.19.50:553][692]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2023.05.04-16.19.50:554][692]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2023.05.04-16.19.50:555][692]LogModuleManager: Shutting down and abandoning module Core (210)
+[2023.05.04-16.19.50:555][692]LogModuleManager: Shutting down and abandoning module MaterialEditor (208)
+[2023.05.04-16.19.50:556][692]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2023.05.04-16.19.50:556][692]LogModuleManager: Shutting down and abandoning module EditorStyle (205)
+[2023.05.04-16.19.50:558][692]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2023.05.04-16.19.50:558][692]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2023.05.04-16.19.50:558][692]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2023.05.04-16.19.50:559][692]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2023.05.04-16.19.50:559][692]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2023.05.04-16.19.50:559][692]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2023.05.04-16.19.50:560][692]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2023.05.04-16.19.50:560][692]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2023.05.04-16.19.50:563][692]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2023.05.04-16.19.50:563][692]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2023.05.04-16.19.50:564][692]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2023.05.04-16.19.50:564][692]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2023.05.04-16.19.50:565][692]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2023.05.04-16.19.50:566][692]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2023.05.04-16.19.50:566][692]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2023.05.04-16.19.50:568][692]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2023.05.04-16.19.50:568][692]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2023.05.04-16.19.50:568][692]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2023.05.04-16.19.50:568][692]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (163)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2023.05.04-16.19.50:569][692]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2023.05.04-16.19.50:570][692]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2023.05.04-16.19.50:570][692]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2023.05.04-16.19.50:570][692]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2023.05.04-16.19.50:570][692]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2023.05.04-16.19.50:570][692]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module D3D11RHI (132)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.05.04-16.19.50:571][692]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.05.04-16.19.50:572][692]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.05.04-16.19.50:573][692]LogHMD: Freeing OpenVRDLLHandle.
+[2023.05.04-16.19.50:573][692]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.05.04-16.19.50:573][692]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.05.04-16.19.50:574][692]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.04-16.19.50:574][692]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2023.05.04-16.19.50:574][692]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2023.05.04-16.19.50:574][692]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (100)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2023.05.04-16.19.50:576][692]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.05.04-16.19.50:580][692]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.05.04-16.19.50:581][692]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.05.04-16.19.50:597][692]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.05.04-16.19.50:597][692]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.05.04-16.19.50:613][692]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.05.04-16.19.50:616][692]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.05.04-16.19.50:618][692]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.05.04-16.19.50:620][692]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.05.04-16.19.50:620][692]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.05.04-16.19.50:620][692]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2023.05.04-16.19.50:621][692]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.05.04-16.19.50:621][692]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2023.05.04-16.19.50:621][692]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.05.04-16.19.50:622][692]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2023.05.04-16.19.50:622][692]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2023.05.04-16.19.50:622][692]LogModuleManager: Shutting down and abandoning module PixWinPlugin (54)
+[2023.05.04-16.19.50:623][692]LogModuleManager: Shutting down and abandoning module ChaosCloth (52)
+[2023.05.04-16.19.50:624][692]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.05.04-16.19.50:624][692]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.05.04-16.19.50:624][692]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.05.04-16.19.50:624][692]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.05.04-16.19.50:625][692]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.05.04-16.19.50:625][692]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.05.04-16.19.50:625][692]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.05.04-16.19.50:625][692]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.05.04-16.19.50:626][692]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.05.04-16.19.50:626][692]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.05.04-16.19.50:627][692]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.05.04-16.19.50:628][692]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.05.04-16.19.50:628][692]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.04-16.19.50:628][692]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.04-16.19.50:628][692]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.05.04-16.19.50:629][692]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.05.04-16.19.50:630][692]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.05.04-16.19.50:631][692]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.05.04-16.19.50:631][692]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.05.04-16.19.50:631][692]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.05.04-16.19.50:668][692]LogD3D11RHI: Shutdown
+[2023.05.04-16.19.50:668][692]LogD3D11RHI: CleanupD3DDevice
+[2023.05.04-16.19.50:680][692]LogD3D11RHI: Intel Extensions Framework unloaded
+[2023.05.04-16.19.50:691][692]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2023.05.04-16.19.50:692][692]LogExit: Exiting.
+[2023.05.04-16.19.50:699][692]Log file closed, 05/04/23 17:19:50
